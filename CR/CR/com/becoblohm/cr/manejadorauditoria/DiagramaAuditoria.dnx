@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="7a24c4b4-00ff-e691-65fc-c0a80155aa77" version="8">
+  <Diagram DiagramId="7a24c4b5-00ff-e7a4-6a2f-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a24d5ac-00ff-fba9-4a52-c0a80155aa77" PositionX="9325" PositionY="2625" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.Auditoria})" Name="Auditoria" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a24d5ad-00ff-fcbc-5cd5-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.Auditoria})" Name="Auditoria" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a24d5ae-00ff-f983-65e0-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.Auditoria})" Name="Auditoria" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a24d5af-00ff-fa96-6d8c-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.Auditoria})" Name="Auditoria" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a24d5b0-00ff-fd92-7720-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.Auditoria})" Name="Auditoria" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a24fde5-00ff-e34f-3382-c0a80155aa77" PositionX="1800" PositionY="2650" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.AuditoriaRemota})" Name="AuditoriaRemota" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a24fde6-00ff-e016-419b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.AuditoriaRemota})" Name="AuditoriaRemota" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a24fde7-00ff-e129-4aac-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.AuditoriaRemota})" Name="AuditoriaRemota" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a24fde8-00ff-e689-525e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.AuditoriaRemota})" Name="AuditoriaRemota" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a24fde9-00ff-e79c-5bf0-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorauditoria.AuditoriaRemota})" Name="AuditoriaRemota" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac8475a4-00ff-f699-2306-c0a80155aa77" PositionX="4200" PositionY="100" ExtentX="10525" ExtentY="1275" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac847594-00ff-e304-1543-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac8475a5-00ff-f7ac-2dca-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac847594-00ff-e304-1543-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac847594-00ff-e304-1543-c0a80155aa77" Label="Diagrama Paquete Auditoría"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

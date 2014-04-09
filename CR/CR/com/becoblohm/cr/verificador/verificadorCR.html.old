@@ -1,0 +1,21 @@
+<html>
+   <head>
+      <body bgcolor="#7095b6" topmargin="2" leftmargin="2" background="./images/verificadorEPA.gif"  style="font-family: Arial; font-size: 12 pt">
+         <table border="0" width="525">
+            <tr>
+               <td width="517" valign="middle">
+                  <h1 align="right" style="line-height: 100%; margin: 0"><b><font face="Arial" color="#FFFFFF" size="5">Consulta de Precios</font></b></h1>
+               </td>
+            </tr>
+         </table>  
+         <p align="right" style="line-height: 100%">&nbsp;  
+
+         <p align="right" style="line-height: 100%">&nbsp;  
+
+         <p align="center" style="line-height: 100%">  
+            
+         <hr> 
+
+         <p>&nbsp;</p> 
+      </body>
+</html> 

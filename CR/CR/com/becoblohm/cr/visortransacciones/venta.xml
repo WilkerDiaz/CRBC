@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<venta>
+  <pagos>
+    <pago>
+      <formaPago>
+        <codigo>7</codigo>
+
+        <tipo>7</tipo>
+
+        <nombre>Cargo a Cuenta</nombre>
+
+        <indicarBanco>false</indicarBanco>
+
+        <indicarNumDocumento>false</indicarNumDocumento>
+
+        <indicarNumCuenta>false</indicarNumCuenta>
+
+        <indicarNumConformacion>false</indicarNumConformacion>
+
+        <indicarNumReferencia>false</indicarNumReferencia>
+
+        <indicarCedulaTitular>true</indicarCedulaTitular>
+
+        <validarSaldoCliente>false</validarSaldoCliente>
+
+        <permiteVuelto>false</permiteVuelto>
+
+        <montoMinimo>0.0</montoMinimo>
+
+        <montoMaximo>1.7976931348623157E308</montoMaximo>
+
+        <montoComision>0.0</montoComision>
+
+        <incrementaEntregaParcial>false</incrementaEntregaParcial>
+
+        <requiereAutorizacion>true</requiereAutorizacion>
+
+      </formaPago>
+
+      <monto>468966.2</monto>
+
+      <numConformacion>0</numConformacion>
+
+      <numReferencia>0</numReferencia>
+
+      <cedTitular>4729325</cedTitular>
+
+    </pago>
+
+  </pagos>
+
+  <aplicaDesctoEmpleado>false</aplicaDesctoEmpleado>
+
+  <ventaExenta>false</ventaExenta>
+
+  <codTienda>1</codTienda>
+
+  <fechaTrans class="sql-date">2004-10-19</fechaTrans>
+
+  <numCajaInicia>1</numCajaInicia>
+
+  <numRegCajaInicia>69</numRegCajaInicia>
+
+  <numCajaFinaliza>1</numCajaFinaliza>
+
+  <numTransaccion>36</numTransaccion>
+
+  <horaInicia>08:17:11</horaInicia>
+
+  <horaFin>08:18:58</horaFin>
+
+  <codCajero>00004791</codCajero>
+
+  <cliente>
+    <codCliente>4729325</codCliente>
+
+    <tipoCliente>N</tipoCliente>
+
+    <numTienda>1</numTienda>
+
+    <nombre>IRENE C</nombre>
+
+    <direccion></direccion>
+
+    <codArea></codArea>
+
+    <numTelefono></numTelefono>
+
+    <fechaAfiliacion class="sql-date">2004-10-15</fechaAfiliacion>
+
+    <exento>false</exento>
+
+    <estadoCliente>A</estadoCliente>
+
+    <estadoColaborador>A</estadoColaborador>
+
+    <contactar>false</contactar>
+
+    <mensajes></mensajes>
+
+  </cliente>
+
+  <montoBase>407796.5</montoBase>
+
+  <montoImpuesto>61169.7</montoImpuesto>
+
+  <montoRemanente>0.0</montoRemanente>
+
+  <montoVuelto>-0.0</montoVuelto>
+
+  <lineasFacturacion>2</lineasFacturacion>
+
+  <checksum>0</checksum>
+
+  <tipoTransaccion>V</tipoTransaccion>
+
+  <estadoTransaccion>F</estadoTransaccion>
+
+  <detallesTransaccion>
+    <detalletransaccion>
+      <montoDctoEmpleado>0.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000003027040</codProducto>
+
+        <descripcionCorta>CEMENTO CARIBE 42,5K</descripcionCorta>
+
+        <descripcionLarga>CEMENTO CARIBE 42,5KG</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>30</codDepartamento>
+
+        <lineaSeccion>27</lineaSeccion>
+
+        <costoLista>4194.0</costoLista>
+
+        <precioRegular>8230.0</precioRegular>
+
+        <cantidadVentaEmpaque>45.0</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>1.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>45.0</cantidad>
+
+      <condicionVenta>E</condicionVenta>
+
+      <precioFinal>8147.7</precioFinal>
+
+      <montoImpuesto>1222.16</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>0.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000003027040</codProducto>
+
+        <descripcionCorta>CEMENTO CARIBE 42,5K</descripcionCorta>
+
+        <descripcionLarga>CEMENTO CARIBE 42,5KG</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>30</codDepartamento>
+
+        <lineaSeccion>27</lineaSeccion>
+
+        <costoLista>4194.0</costoLista>
+
+        <precioRegular>8230.0</precioRegular>
+
+        <cantidadVentaEmpaque>45.0</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>1.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>5.0</cantidad>
+
+      <condicionVenta>N</condicionVenta>
+
+      <precioFinal>8230.0</precioFinal>
+
+      <montoImpuesto>1234.5</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+  </detallesTransaccion>
+
+  <inicio>1098460428734</inicio>
+
+  <duracion>0</duracion>
+
+</venta>

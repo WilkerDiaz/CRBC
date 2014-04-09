@@ -1,0 +1,572 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./xsltAnulacion.xsl"?>
+<anulacion>
+  <ventaOriginal>
+    <pagos>
+      <pago>
+        <formaPago>
+          <codigo>1</codigo>
+
+          <tipo>1</tipo>
+
+          <nombre>Efectivo</nombre>
+
+          <indicarBanco>false</indicarBanco>
+
+          <indicarNumDocumento>false</indicarNumDocumento>
+
+          <indicarNumCuenta>false</indicarNumCuenta>
+
+          <indicarNumConformacion>false</indicarNumConformacion>
+
+          <indicarNumReferencia>false</indicarNumReferencia>
+
+          <indicarCedulaTitular>false</indicarCedulaTitular>
+
+          <validarSaldoCliente>false</validarSaldoCliente>
+
+          <permiteVuelto>true</permiteVuelto>
+
+          <montoMinimo>1.0</montoMinimo>
+
+          <montoMaximo>5000000.0</montoMaximo>
+
+          <montoComision>0.0</montoComision>
+
+          <incrementaEntregaParcial>true</incrementaEntregaParcial>
+
+          <requiereAutorizacion>false</requiereAutorizacion>
+
+        </formaPago>
+
+        <monto>2111.4</monto>
+
+        <numConformacion>0</numConformacion>
+
+        <numReferencia>0</numReferencia>
+
+      </pago>
+
+      <pago>
+        <formaPago>
+          <codigo>6</codigo>
+
+          <tipo>6</tipo>
+
+          <nombre>BILLETE EPA</nombre>
+
+          <indicarBanco>false</indicarBanco>
+
+          <indicarNumDocumento>false</indicarNumDocumento>
+
+          <indicarNumCuenta>false</indicarNumCuenta>
+
+          <indicarNumConformacion>false</indicarNumConformacion>
+
+          <indicarNumReferencia>false</indicarNumReferencia>
+
+          <indicarCedulaTitular>false</indicarCedulaTitular>
+
+          <validarSaldoCliente>false</validarSaldoCliente>
+
+          <permiteVuelto>true</permiteVuelto>
+
+          <montoMinimo>0.0</montoMinimo>
+
+          <montoMaximo>5000000.0</montoMaximo>
+
+          <montoComision>0.0</montoComision>
+
+          <incrementaEntregaParcial>true</incrementaEntregaParcial>
+
+          <requiereAutorizacion>false</requiereAutorizacion>
+
+        </formaPago>
+
+        <monto>1405478.25</monto>
+
+        <numConformacion>0</numConformacion>
+
+        <numReferencia>0</numReferencia>
+
+      </pago>
+
+    </pagos>
+
+    <aplicaDesctoEmpleado>false</aplicaDesctoEmpleado>
+
+    <ventaExenta>false</ventaExenta>
+
+    <codTienda>1</codTienda>
+
+    <fechaTrans class="sql-date">2004-10-15</fechaTrans>
+
+    <numCajaInicia>1</numCajaInicia>
+
+    <numRegCajaInicia>49</numRegCajaInicia>
+
+    <numCajaFinaliza>1</numCajaFinaliza>
+
+    <numTransaccion>25</numTransaccion>
+
+    <horaInicia>11:24:59</horaInicia>
+
+    <horaFin>11:28:08</horaFin>
+
+    <codCajero>00006424</codCajero>
+
+    <cliente>
+      <codCliente>V-0016556571</codCliente>
+
+      <tipoCliente>E</tipoCliente>
+
+      <numFicha>0005085</numFicha>
+
+      <numTienda>3</numTienda>
+
+      <nombre>IVAN  JAIMES GRIMAN</nombre>
+
+      <nit></nit>
+
+      <direccion>NO REGISTRADA</direccion>
+
+      <dirFiscal>NO REGISTRADA</dirFiscal>
+
+      <codArea></codArea>
+
+      <numTelefono></numTelefono>
+
+      <fechaAfiliacion class="sql-date">2003-07-04</fechaAfiliacion>
+
+      <exento>false</exento>
+
+      <estadoCliente>A</estadoCliente>
+
+      <estadoColaborador>A</estadoColaborador>
+
+      <contactar>false</contactar>
+
+      <mensajes></mensajes>
+
+    </cliente>
+
+    <montoBase>1223991.0</montoBase>
+
+    <montoImpuesto>183598.65</montoImpuesto>
+
+    <montoRemanente>0.0</montoRemanente>
+
+    <montoVuelto>-0.0</montoVuelto>
+
+    <lineasFacturacion>2</lineasFacturacion>
+
+    <checksum>0</checksum>
+
+    <tipoTransaccion>V</tipoTransaccion>
+
+    <estadoTransaccion>F</estadoTransaccion>
+
+    <detallesTransaccion>
+      <detalletransaccion>
+        <montoDctoEmpleado>3999.0</montoDctoEmpleado>
+
+        <producto>
+          <codProducto>000000202075</codProducto>
+
+          <descripcionCorta>K/P OCRE 1GL</descripcionCorta>
+
+          <descripcionLarga>KEM PARED-EX OCRE 1GL</descripcionLarga>
+
+          <codUnidadVenta>1</codUnidadVenta>
+
+          <descUnidadVenta>PIEZA</descUnidadVenta>
+
+          <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+          <indicaFraccion>false</indicaFraccion>
+
+          <referenciaProveedor>S/REF</referenciaProveedor>
+
+          <marca>N/A</marca>
+
+          <modelo>N/A</modelo>
+
+          <codDepartamento>02</codDepartamento>
+
+          <lineaSeccion>02</lineaSeccion>
+
+          <costoLista>34500.0</costoLista>
+
+          <precioRegular>39990.0</precioRegular>
+
+          <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+          <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+          <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+          <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+          <estado>A</estado>
+
+          <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+          <horaActualizacion>16:11:31</horaActualizacion>
+
+          <impuesto>
+            <codImpuesto>001</codImpuesto>
+
+            <codRegion>VAL</codRegion>
+
+            <nombreImpuesto>IVA</nombreImpuesto>
+
+            <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+            <porcentaje>15.0</porcentaje>
+
+          </impuesto>
+
+          <promociones></promociones>
+
+          <tipoEntrega>Caja</tipoEntrega>
+
+        </producto>
+
+        <cantidad>1.0</cantidad>
+
+        <condicionVenta>DE</condicionVenta>
+
+        <precioFinal>35991.0</precioFinal>
+
+        <montoImpuesto>5398.65</montoImpuesto>
+
+        <tipoCaptura>T</tipoCaptura>
+
+        <codPromocion>0</codPromocion>
+
+        <tipoEntrega></tipoEntrega>
+
+        <condicionEspecial>false</condicionEspecial>
+
+      </detalletransaccion>
+
+      <detalletransaccion>
+        <montoDctoEmpleado>26400.0</montoDctoEmpleado>
+
+        <producto>
+          <codProducto>000000202010</codProducto>
+
+          <descripcionCorta>K/P BLANCO 5GL</descripcionCorta>
+
+          <descripcionLarga>KEM PARED-EX BLANCO 5</descripcionLarga>
+
+          <codUnidadVenta>1</codUnidadVenta>
+
+          <descUnidadVenta>PIEZA</descUnidadVenta>
+
+          <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+          <indicaFraccion>false</indicaFraccion>
+
+          <referenciaProveedor>S/REF</referenciaProveedor>
+
+          <marca>N/A</marca>
+
+          <modelo>N/A</modelo>
+
+          <codDepartamento>02</codDepartamento>
+
+          <lineaSeccion>02</lineaSeccion>
+
+          <costoLista>158700.0</costoLista>
+
+          <precioRegular>264000.0</precioRegular>
+
+          <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+          <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+          <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+          <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+          <estado>A</estado>
+
+          <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+          <horaActualizacion>16:11:31</horaActualizacion>
+
+          <impuesto>
+            <codImpuesto>001</codImpuesto>
+
+            <codRegion>VAL</codRegion>
+
+            <nombreImpuesto>IVA</nombreImpuesto>
+
+            <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+            <porcentaje>15.0</porcentaje>
+
+          </impuesto>
+
+          <promociones></promociones>
+
+          <tipoEntrega>Caja</tipoEntrega>
+
+        </producto>
+
+        <cantidad>5.0</cantidad>
+
+        <condicionVenta>DE</condicionVenta>
+
+        <precioFinal>237600.0</precioFinal>
+
+        <montoImpuesto>35640.0</montoImpuesto>
+
+        <tipoCaptura>T</tipoCaptura>
+
+        <codPromocion>0</codPromocion>
+
+        <tipoEntrega></tipoEntrega>
+
+        <condicionEspecial>false</condicionEspecial>
+
+      </detalletransaccion>
+
+    </detallesTransaccion>
+
+    <inicio>1098732094265</inicio>
+
+    <duracion>0</duracion>
+
+  </ventaOriginal>
+
+  <codTienda>1</codTienda>
+
+  <fechaTrans class="sql-date">2004-10-15</fechaTrans>
+
+  <numCajaInicia>1</numCajaInicia>
+
+  <numRegCajaInicia>50</numRegCajaInicia>
+
+  <numCajaFinaliza>1</numCajaFinaliza>
+
+  <numTransaccion>26</numTransaccion>
+
+  <horaInicia>11:32:31</horaInicia>
+
+  <horaFin>11:34:01</horaFin>
+
+  <codCajero>00006424</codCajero>
+
+  <cliente>
+    <codCliente>V-0016556571</codCliente>
+
+    <tipoCliente>N</tipoCliente>
+
+    <direccion></direccion>
+
+    <dirFiscal></dirFiscal>
+
+    <exento>false</exento>
+
+    <estadoCliente>A</estadoCliente>
+
+    <estadoColaborador>A</estadoColaborador>
+
+    <contactar>false</contactar>
+
+    <mensajes></mensajes>
+
+  </cliente>
+
+  <montoBase>1223991.0</montoBase>
+
+  <montoImpuesto>183598.65</montoImpuesto>
+
+  <montoRemanente>0.0</montoRemanente>
+
+  <montoVuelto>0.0</montoVuelto>
+
+  <lineasFacturacion>2</lineasFacturacion>
+
+  <checksum>0</checksum>
+
+  <tipoTransaccion>A</tipoTransaccion>
+
+  <estadoTransaccion>F</estadoTransaccion>
+
+  <detallesTransaccion>
+    <detalletransaccion>
+      <montoDctoEmpleado>0.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000000202075</codProducto>
+
+        <descripcionCorta>K/P OCRE 1GL</descripcionCorta>
+
+        <descripcionLarga>KEM PARED-EX OCRE 1GL</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>02</codDepartamento>
+
+        <lineaSeccion>02</lineaSeccion>
+
+        <costoLista>34500.0</costoLista>
+
+        <precioRegular>39990.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>1.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>35991.0</precioFinal>
+
+      <montoImpuesto>5398.65</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>0.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000000202010</codProducto>
+
+        <descripcionCorta>K/P BLANCO 5GL</descripcionCorta>
+
+        <descripcionLarga>KEM PARED-EX BLANCO 5</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>02</codDepartamento>
+
+        <lineaSeccion>02</lineaSeccion>
+
+        <costoLista>158700.0</costoLista>
+
+        <precioRegular>264000.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>5.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>237600.0</precioFinal>
+
+      <montoImpuesto>35640.0</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+  </detallesTransaccion>
+
+  <inicio>1098732094265</inicio>
+
+  <duracion>0</duracion>
+
+</anulacion>

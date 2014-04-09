@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Funcion"
+    table="funcion"
+>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.FuncionPK">
+        <key-property 
+            name="codfuncion" 
+            column="codfuncion" 
+            type="int"
+        />
+        <key-property 
+            name="codmodulo" 
+            column="codmodulo" 
+            type="int"
+        />
+    </composite-id>    
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="descripcion"
+        type="java.lang.String"
+        column="descripcion"
+        not-null="true"
+        length="60"
+    />
+    <property
+        name="nivelauditoria"
+        type="java.lang.String"
+        column="nivelauditoria"
+        length="1"
+    />
+    <property
+        name="regvigente"
+        type="java.lang.String"
+        column="regvigente"
+        length="1"
+    />
+    <property
+        name="reqautorizacion"
+        type="java.lang.String"
+        column="reqautorizacion"
+        length="1"
+    />
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

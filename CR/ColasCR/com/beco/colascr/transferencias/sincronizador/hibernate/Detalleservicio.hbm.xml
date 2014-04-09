@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Detalleservicio" 
+    table="detalleservicio"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.DetalleservicioPK">
+        <key-property 
+            name="numtienda" 
+            column="numtienda" 
+            type="int"
+        />
+        <key-property 
+            name="codtiposervicio" 
+            column="codtiposervicio" 
+            type="java.lang.String"
+        />
+        <key-property 
+            name="numservicio" 
+            column="numservicio" 
+            type="int"
+        />
+        <key-property 
+            name="fecha" 
+            column="fecha" 
+            type="java.util.Date"
+        />
+        <key-property 
+            name="codproducto" 
+            column="codproducto" 
+            type="java.lang.String"
+        />
+        <key-property 
+            name="correlativoitem" 
+            column="correlativoitem" 
+            type="int"
+        />
+    </composite-id>
+
+    <property 
+		name="codcondicionventa" 
+		column="codcondicionventa" 
+		type="java.lang.String"
+		length="2"
+	>
+	</property>
+    <property
+        name="cantidad"
+        type="java.math.BigDecimal"
+        column="cantidad"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="precioregular"
+        type="java.math.BigDecimal"
+        column="precioregular"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="preciofinal"
+        type="java.math.BigDecimal"
+        column="preciofinal"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="montoimpuesto"
+        type="java.math.BigDecimal"
+        column="montoimpuesto"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="codtipocaptura"
+        type="java.lang.String"
+        column="codtipocaptura"
+        length="2"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="codpromocion"
+        type="java.lang.Integer"
+        column="codpromocion"
+    >
+    </property>
+    <property
+        name="estadoregistro"
+        type="java.lang.String"
+        column="estadoregistro"
+        length="1"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="regactualizado"
+        type="java.lang.String"
+        column="regactualizado"
+        length="1"
+        not-null="true"
+    >
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

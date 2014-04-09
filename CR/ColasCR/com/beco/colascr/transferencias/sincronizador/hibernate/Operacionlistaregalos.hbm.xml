@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Operacionlistaregalos"
+    table="operacionlistaregalos"
+>
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.OperacionlistaregalosPK">
+        <key-property
+	        name="numoperacion"
+        	column="numoperacion"
+    	    type="int"
+	    />
+	    <key-property 
+	        name="codlista" 
+	        column="codlista" 
+	        type="int"
+	    />
+        <key-property 
+            name="codproducto" 
+            column="codproducto" 
+            type="java.lang.String"
+            length="12"
+			>
+	    	<meta attribute="use-in-tostring">true</meta>
+    	</key-property>
+    	<key-property 
+	        name="correlativoitem" 
+	        column="correlativoitem" 
+	        type="int"
+	    />
+    </composite-id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+    
+    <property
+        name="numtransaccion"
+        type="java.lang.Integer"
+        column="numtransaccion"
+    />
+    <property
+        name="codcliente"
+        type="java.lang.String"
+        column="codcliente"
+        length="12"
+	    >
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="nomcliente"
+        type="java.lang.String"
+        column="nomcliente"
+        length="50"
+	    >
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="fecha"
+        type="java.util.Date"
+        column="fecha"
+    />
+    <property
+        name="tipooperacion"
+        type="java.lang.String"
+        column="tipooperacion"
+        length="1"
+	    >
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="montobase"
+        type="java.math.BigDecimal"
+        column="montobase"
+    />
+    <property
+        name="montoimpuesto"
+        type="java.math.BigDecimal"
+        column="montoimpuesto"
+    />
+    <property
+        name="cantidad"
+        type="java.math.BigDecimal"
+        column="cantidad"
+    />
+    <property
+        name="numtienda"
+        type="int"
+        column="numtienda"
+    />
+    <property
+        name="numcaja"
+        type="int"
+        column="numcaja"
+    />
+    <property
+        name="codcajero"
+        type="java.lang.String"
+        column="codcajero"
+        length="8"
+	    >
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="dedicatoria"
+        type="java.lang.String"
+        column="dedicatoria"
+        length="200"
+	    >
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

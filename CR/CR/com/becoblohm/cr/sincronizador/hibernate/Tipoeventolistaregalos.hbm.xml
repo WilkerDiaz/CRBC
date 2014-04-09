@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.becoblohm.cr.sincronizador.hibernate.Tipoeventolistaregalos" 
+    table="afiliado"
+>
+
+    <id
+        name="codtipoevento"
+        type="java.lang.String"
+        column="codtipoevento"
+		length="2"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="descripcion"
+        type="java.lang.String"
+        column="descripcion"
+        not-null="true"
+        length="30"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

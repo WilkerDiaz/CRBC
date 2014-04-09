@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Detalleoperacionlistaregalos"
+    table="detalleoperacionlistaregalos"
+>
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.DetalleoperacionlistaregalosPK">
+	    <key-property 
+	        name="numoperacion" 
+	        column="numoperacion" 
+	        type="int"
+	    />
+	    <key-property 
+	        name="codlista" 
+	        column="codlista" 
+	        type="int"
+	    />
+        <key-property 
+            name="codformadepago" 
+            column="codformadepago" 
+            type="java.lang.String"
+            length="10"
+        	>
+	    	<meta attribute="use-in-tostring">true</meta>
+    	</key-property>
+	    <key-property 
+	        name="correlativo" 
+	        column="correlativo" 
+	        type="int"
+	    />
+    </composite-id> 
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+       
+    <property
+        name="monto"
+        type="double"
+        column="monto"
+    />
+    <property
+        name="montovuelto"
+        type="double"
+        column="montovuelto"
+    />
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

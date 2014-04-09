@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.becoblohm.cr.sincronizador.hibernate.Detalleafiliado" 
+    table="detalleafiliado"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.becoblohm.cr.sincronizador.hibernate.DetalleafiliadoPK">
+        <key-property 
+            name="numtienda" 
+            column="numtienda" 
+            type="java.lang.Short"
+            length="6"
+        />
+        <key-property 
+            name="codafiliado" 
+            column="codafiliado" 
+            type="java.lang.String"
+            length="12"
+        />
+        <key-property 
+            name="mensaje" 
+            column="mensaje" 
+            type="java.lang.String"
+            length="200"
+        />
+    </composite-id>    
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="monto"
+        type="java.math.BigDecimal"
+        column="monto"
+        length="13"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="proceso"
+        type="java.lang.String"
+        column="proceso"
+        length="7"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="notificado"
+        type="java.lang.String"
+        column="notificado"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

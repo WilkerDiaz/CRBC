@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CR"/>
+	<classpathentry kind="lib" path="/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/jars/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="/jars/commons-dbutils-1.0.jar"/>
+	<classpathentry kind="lib" path="/jars/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/jars/commons-pool-1.2.jar"/>
+	<classpathentry kind="lib" path="/jars/jcifs-1.3.17.jar"/>
+	<classpathentry kind="lib" path="/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+
+<hibernate-mapping>
+	<class
+		name="com.beco.colascr.transferencias.sincronizador.hibernate.Br_comprobantefiscal"
+		table="br_comprobantefiscal"
+	>
+		<meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+		<composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.Br_comprobantefiscalPK">
+			<key-property
+				column="numtienda"
+				name="numtienda"
+				type="java.lang.Short"
+			 />
+			<key-property
+				column="fecha"
+				name="fecha"
+				type="java.sql.Date"
+			 />
+			<key-property
+				column="numcaja"
+				name="numcaja"
+				type="java.lang.Short"
+			 />
+			<key-property
+				column="numtransaccion"
+				name="numtransaccion"
+				type="int"
+			 />
+			<key-property
+				column="numcomprobantefiscal"
+				name="numcomprobantefiscal"
+				type="int"
+			 />
+			<key-property
+				column="tipocomprobante"
+				name="tipocomprobante"
+				type="java.lang.String"
+				length="1"
+			 />
+		</composite-id>
+
+    <property
+        name="fechaemision"
+        type="java.util.Date"
+        column="fechaemision"
+        not-null="true"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="serialcaja"
+        type="java.lang.String"
+        column="serialcaja"
+        length="20"
+        not-null="true"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="regactualizado"
+        type="java.lang.String"
+        column="regactualizado"
+        length="1"
+        not-null="true"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+  </class>
+</hibernate-mapping>

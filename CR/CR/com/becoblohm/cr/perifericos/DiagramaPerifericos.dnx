@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="93cc8ba8-00ff-e109-357c-c0a80155aa77" version="8">
+  <Diagram DiagramId="93cc8ba9-00ff-e21c-39b7-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93cc96f2-00ff-f092-2499-c0a80155aa77" PositionX="1425" PositionY="3475" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.Dispositivo})" Name="Dispositivo" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93cc96f3-00ff-f1a5-3736-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.Dispositivo})" Name="Dispositivo" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93cc96f4-00ff-f705-0f97-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.Dispositivo})" Name="Dispositivo" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93cc96f5-00ff-f818-1745-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.Dispositivo})" Name="Dispositivo" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93cc96f6-00ff-f4df-20ea-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.Dispositivo})" Name="Dispositivo" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93cca2ba-00ff-fcca-675f-c0a80155aa77" PositionX="6225" PositionY="3425" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.EfectuarLecturaEscaner})" Name="EfectuarLecturaEscaner" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93cca2bb-00ff-fddd-7524-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.EfectuarLecturaEscaner})" Name="EfectuarLecturaEscaner" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93cca2bc-00ff-e33d-7e60-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.EfectuarLecturaEscaner})" Name="EfectuarLecturaEscaner" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93cca2bd-00ff-e450-061a-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.EfectuarLecturaEscaner})" Name="EfectuarLecturaEscaner" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93cca2be-00ff-e116-0ffc-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.perifericos.EfectuarLecturaEscaner})" Name="EfectuarLecturaEscaner" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac8d76b2-00ff-eb47-6269-c0a80155aa77" PositionX="2050" PositionY="1050" ExtentX="11275" ExtentY="1325" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac8d76b1-00ff-ee80-54a9-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac8d76b3-00ff-ec5a-6d34-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac8d76b1-00ff-ee80-54a9-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac8d76b1-00ff-ee80-54a9-c0a80155aa77" Label="Diagrama Paquete Periféricos"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

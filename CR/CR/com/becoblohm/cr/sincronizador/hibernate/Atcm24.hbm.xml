@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+
+<hibernate-mapping>
+	<class
+		name="com.becoblohm.cr.sincronizador.hibernate.Atcm24"
+		table="atcm24"
+	>
+		<meta attribute="class-description">
+			@hibernate.class table="atcm24" schema=""
+		</meta>
+		<composite-id class="com.becoblohm.cr.sincronizador.hibernate.Atcm24PK">
+			<key-property
+				column="codedo"
+				name="codedo"
+				type="int"
+			 />
+			<key-property
+				column="codciu"
+				name="codciu"
+				type="int"
+			 />
+		</composite-id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="desciu"
+        type="java.lang.String"
+        column="desciu"
+        not-null="true"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codarea1"
+        type="int"
+        column="codarea1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="staeli"
+        type="java.lang.String"
+        column="staeli"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="usreli"
+        type="java.lang.String"
+        column="usreli"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+</class>
+</hibernate-mapping>

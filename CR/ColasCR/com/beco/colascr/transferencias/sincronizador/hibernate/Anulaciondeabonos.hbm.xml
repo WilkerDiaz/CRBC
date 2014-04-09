@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Anulaciondeabonos" 
+    table="anulaciondeabonos"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.AnulaciondeabonosPK">
+        <key-property 
+            name="numtienda" 
+            column="numtienda" 
+            type="int"
+        />
+        <key-property 
+            name="numcaja" 
+            column="numcaja" 
+            type="int"
+        />
+        <key-property 
+            name="numabono" 
+            column="numabono" 
+            type="int"
+        />
+        <key-property 
+            name="fechaabono" 
+            column="fechaabono" 
+            type="java.util.Date"
+        />
+        <key-property 
+            name="numabonoanulado" 
+            column="numabonoanulado" 
+            type="int"
+        />
+        <key-property 
+            name="fechaabonoanulado" 
+            column="fechaabonoanulado" 
+            type="java.util.Date"
+        />
+        <key-property 
+            name="numservicio" 
+            column="numservicio" 
+            type="int"
+        />
+    </composite-id>
+
+    <property
+        name="regactualizado"
+        type="java.lang.String"
+        column="regactualizado"
+        not-null="true"
+        length="1"
+    >
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+
+<hibernate-mapping>
+	<class
+		name="com.becoblohm.cr.sincronizador.hibernate.Auditoria"
+		table="auditoria"
+	>
+		<meta attribute="class-description">
+			@hibernate.class table="auditoria" schema=""
+		</meta>
+		<composite-id class="com.becoblohm.cr.sincronizador.hibernate.AuditoriaPK" name="Id">
+			<key-property
+				column="idauditoria"
+				name="Idauditoria"
+				type="java.lang.Long"
+			 />
+
+			<key-property
+				column="numcaja"
+				name="Numcaja"
+				type="java.lang.Short"
+			 />
+			<key-property
+				column="numtienda"
+				name="Numtienda"
+				type="java.lang.Short"
+			 />
+		</composite-id>
+
+		<property
+			column="mensaje"
+			length="100"
+			name="Mensaje"
+			not-null="true"
+			type="string"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "mensaje" type="string"
+							not-null="true"
+							length="100"
+			</meta>
+		</property>
+		<property
+			column="regactualizado"
+			length="1"
+			name="Regactualizado"
+			not-null="true"
+			type="string"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "regactualizado" type="string"
+							not-null="true"
+							length="1"
+			</meta>
+		</property>
+		<property
+			column="nivelauditoria"
+			length="1"
+			name="Nivelauditoria"
+			not-null="true"
+			type="string"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "nivelauditoria" type="string"
+							not-null="true"
+							length="1"
+			</meta>
+		</property>
+		<property
+			column="numtransaccion"
+			length="10"
+			name="Numtransaccion"
+			not-null="false"
+			type="integer"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "numtransaccion" type="integer"
+							not-null="false"
+							length="10"
+			</meta>
+		</property>
+		<property
+			column="codmodulo"
+			name="Codmodulo"
+			not-null="true"
+			type="integer"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "codmodulo" type="integer"
+							not-null="true"
+			</meta>
+		</property>
+		<property
+			column="codfuncion"
+			name="Codfuncion"
+			not-null="true"
+			type="integer"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "codfuncion" type="integer"
+							not-null="true"
+			</meta>
+		</property>
+
+		<property
+			column="fecha"
+			name="Fecha"
+			not-null="true"
+			type="timestamp"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "fecha" type="timestamp"
+							not-null="true"
+			</meta>
+		</property>
+	
+		<property
+			column="codusuario"
+			name="Codusuario"
+			not-null="true"
+			type="string"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "codusuario" type="string"
+							not-null="true"
+			</meta>
+		</property>
+		<property
+			column="tiporegistro"
+			name="Tiporegistro"
+			not-null="true"
+			type="string"
+		>
+			<meta attribute="field-description">
+				@hibernate.property column = "tiporegistro" type="string"
+							not-null="true"
+			</meta>
+		</property>
+	</class>
+</hibernate-mapping>

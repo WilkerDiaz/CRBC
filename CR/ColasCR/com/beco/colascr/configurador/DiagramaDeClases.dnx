@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="dc7fa2b7-0100-ed88-32a4-c0a80155aa77" version="8">
+  <Diagram DiagramId="dc7fa2b8-0100-f2e7-3dac-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="dc7fe2fc-0100-e25f-1e2c-c0a80155aa77" sourceConnectors="dc7ff9b0-0100-ed01-787d-c0a80155aa77" PositionX="8650" PositionY="2175" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})" Name="ConfigurarCarteles" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="dc7fe30b-0100-fd7a-0b89-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})" Name="ConfigurarCarteles" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="dc7fe31b-0100-ec49-3cec-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})" Name="ConfigurarCarteles" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="dc7fe31c-0100-f1a8-448a-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})" Name="ConfigurarCarteles" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="dc7fe31d-0100-f2bb-4e0c-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})" Name="ConfigurarCarteles" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="dc7ff664-0100-ef51-6c68-c0a80155aa77" targetConnectors="dc7ff9b0-0100-ed01-787d-c0a80155aa77" PositionX="2975" PositionY="2150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas})" Name="MensajesVentanas" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="dc7ff665-0100-f065-7afe-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas})" Name="MensajesVentanas" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="dc7ff666-0100-ed2b-03f2-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas})" Name="MensajesVentanas" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="dc7ff667-0100-ee3e-0ba4-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas})" Name="MensajesVentanas" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="dc7ff668-0100-f39e-1538-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas})" Name="MensajesVentanas" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="dc7ff9b0-0100-ed01-787d-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="dc7fe2fc-0100-e25f-1e2c-c0a80155aa77" target="dc7ff664-0100-ef51-6c68-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="dc7ff9b1-0100-ee14-0450-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="dc7ff9b2-0100-eada-12da-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="dc7ff9b3-0100-ebee-1cee-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%ConfigurarCarteles})(~jclass{!pid%ConfiguracionCartel}{%MensajesVentanas}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="dc8000c5-0100-f279-77fc-c0a80155aa77" PositionX="5750" PositionY="3975" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%VentanaConfirmacion})" Name="VentanaConfirmacion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="dc8000c6-0100-ef3f-0572-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%VentanaConfirmacion})" Name="VentanaConfirmacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="dc8000c7-0100-f052-0e6f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%VentanaConfirmacion})" Name="VentanaConfirmacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="dc8000c8-0100-f5b2-1626-c0a80155aa77" Ratio="-1.0" Collapsed="true">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%VentanaConfirmacion})" Name="VentanaConfirmacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="dc8000c9-0100-f6c5-1fbf-c0a80155aa77" Ratio="-1.0" Collapsed="true">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%ConfiguracionCartel}{%VentanaConfirmacion})" Name="VentanaConfirmacion" Kind="29"/>
+      </children>
+    </children>
+  </Diagram>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

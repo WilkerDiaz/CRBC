@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Atcm23" 
+    table="atcm23"
+>
+
+    <id
+        name="codedo"
+        type="int"
+        column="codedo"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="desedo"
+        type="java.lang.String"
+        column="desedo"
+        not-null="true"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="staeli"
+        type="java.lang.String"
+        column="staeli"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="usreli"
+        type="java.lang.String"
+        column="usreli"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

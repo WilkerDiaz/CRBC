@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CR"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CRDataFile"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CRFiscalPrinterDriver"/>
+	<classpathentry kind="lib" path="/jars/comm.jar"/>
+	<classpathentry kind="lib" path="/jars/OS4690.jar"/>
+	<classpathentry kind="lib" path="/jars/VPos.jar"/>
+	<classpathentry kind="lib" path="/jars/VposBridge.jar"/>
+	<classpathentry kind="lib" path="/jars/VposUniversal.jar"/>
+	<classpathentry kind="lib" path="/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

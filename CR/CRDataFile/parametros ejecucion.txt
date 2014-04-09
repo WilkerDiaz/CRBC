@@ -1,0 +1,1 @@
+server CR.prodcodigoexterno CR.afiliado.ignore CR.afiliado.replace CR.detalleafiliado

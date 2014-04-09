@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Afiliado1" 
+    table="afiliado1"
+>
+
+    <id
+        name="codafiliado"
+        type="java.lang.String"
+        column="codafiliado"
+		length="12"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="tipoafiliado"
+        type="java.lang.String"
+        column="tipoafiliado"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="nombre"
+        type="java.lang.String"
+        column="nombre"
+        not-null="true"
+        length="100"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="numtienda"
+        type="short"
+        column="numtienda"
+        not-null="true"
+        length="6"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="numficha"
+        type="java.lang.String"
+        column="numficha"
+        length="8"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="coddepartamento"
+        type="java.lang.String"
+        column="coddepartamento"
+        length="2"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codcargo"
+        type="java.lang.String"
+        column="codcargo"
+        length="4"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="nitcliente"
+        type="java.lang.String"
+        column="nitcliente"
+        length="12"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="direccion"
+        type="java.lang.String"
+        column="direccion"
+        not-null="true"
+        length="100"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="direccionfiscal"
+        type="java.lang.String"
+        column="direccionfiscal"
+        length="100"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="email"
+        type="java.lang.String"
+        column="email"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codarea"
+        type="java.lang.String"
+        column="codarea"
+        length="4"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="numtelefono"
+        type="java.lang.String"
+        column="numtelefono"
+        length="9"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="fechaafiliacion"
+        type="java.sql.Date"
+        column="fechaafiliacion"
+        not-null="true"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="exentoimpuesto"
+        type="java.lang.String"
+        column="exentoimpuesto"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="registrado"
+        type="java.lang.String"
+        column="registrado"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="contactar"
+        type="java.lang.String"
+        column="contactar"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codregion"
+        type="java.lang.String"
+        column="codregion"
+        not-null="true"
+        length="3"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="estadoafiliado"
+        type="java.lang.String"
+        column="estadoafiliado"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="estadocolaborador"
+        type="java.lang.String"
+        column="estadocolaborador"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <property
+        name="apellido"
+        type="java.lang.String"
+        column="apellido"
+        length="100"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    
+     <property
+        name="genero"
+        type="java.lang.String"
+        column="genero"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+     <property
+        name="estadocivil"
+        type="java.lang.String"
+        column="estadocivil"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+     <property
+        name="fechanacimiento"
+        type="java.sql.Date"
+        column="fechanacimiento"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

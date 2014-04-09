@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<!DOCTYPE auditoria [<!ENTITY events SYSTEM "temporal.txt">]>
+<auditoria>
+	&events;
+</auditoria>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="93d1a755-00ff-fb4d-2773-c0a80155aa77" version="8">
+  <Diagram DiagramId="93d1a756-00ff-f813-2bad-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93d1eebf-00ff-f681-7d87-c0a80155aa77" PositionX="15450" PositionY="1150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.CargarDataServidorCaja})" Name="CargarDataServidorCaja" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93d1eece-00ff-e903-100f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.CargarDataServidorCaja})" Name="CargarDataServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93d1eecf-00ff-ea16-1962-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.CargarDataServidorCaja})" Name="CargarDataServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93d1eed0-00ff-ed12-2113-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.CargarDataServidorCaja})" Name="CargarDataServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93d1eed1-00ff-ee25-2b00-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.CargarDataServidorCaja})" Name="CargarDataServidorCaja" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93d211b8-00ff-e4d4-6ec9-c0a80155aa77" PositionX="6800" PositionY="1150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.Sincronizador})" Name="Sincronizador" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93d211b9-00ff-e5e7-7b70-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.Sincronizador})" Name="Sincronizador" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93d211ba-00ff-e2ae-0476-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.Sincronizador})" Name="Sincronizador" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93d211bb-00ff-e3c1-0c24-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.Sincronizador})" Name="Sincronizador" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93d211bc-00ff-e921-15cb-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.Sincronizador})" Name="Sincronizador" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93d222de-00ff-f776-7ed1-c0a80155aa77" PositionX="0" PositionY="8200" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarCajaServidor})" Name="SincronizarCajaServidor" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93d222ee-00ff-eb0b-0cac-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarCajaServidor})" Name="SincronizarCajaServidor" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93d222ef-00ff-ec1e-15b8-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarCajaServidor})" Name="SincronizarCajaServidor" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93d222f0-00ff-ef1a-1d72-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarCajaServidor})" Name="SincronizarCajaServidor" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93d222f1-00ff-f02d-2717-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarCajaServidor})" Name="SincronizarCajaServidor" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93d231b3-00ff-fe5b-6738-c0a80155aa77" PositionX="50" PositionY="4400" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarServidorCaja})" Name="SincronizarServidorCaja" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93d231b4-00ff-e3ba-7537-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarServidorCaja})" Name="SincronizarServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93d231b5-00ff-e4cd-7e87-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarServidorCaja})" Name="SincronizarServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93d231b6-00ff-e194-064f-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarServidorCaja})" Name="SincronizarServidorCaja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93d231b7-00ff-e2a7-1023-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.SincronizarServidorCaja})" Name="SincronizarServidorCaja" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93d24163-00ff-f2ab-25e0-c0a80155aa77" PositionX="1050" PositionY="1150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.VerificarProcesos})" Name="VerificarProcesos" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93d24164-00ff-f80b-33cf-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.VerificarProcesos})" Name="VerificarProcesos" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93d24165-00ff-f91e-3cfe-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.VerificarProcesos})" Name="VerificarProcesos" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93d24166-00ff-f5e5-44b8-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.VerificarProcesos})" Name="VerificarProcesos" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93d24167-00ff-f6f8-4e9c-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.sincronizador.VerificarProcesos})" Name="VerificarProcesos" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac8f541d-00ff-e603-3860-c0a80155aa77" PositionX="7250" PositionY="-550" ExtentX="12575" ExtentY="1325" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac8f541c-00ff-e4f0-29c1-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac8f541e-00ff-e2ca-433b-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac8f541c-00ff-e4f0-29c1-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac8f541c-00ff-e4f0-29c1-c0a80155aa77" Label="Diagrama Paquete Sincronizador"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

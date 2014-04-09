@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD//EN" "http://hibernate.sourceforge.net/hibernate-configuration-2.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Transaccionafiliadocrm.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Afiliado.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Detalleafiliado.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Funcion.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Funcionperfil.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Modulos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Perfil.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Prodcodigoexterno.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Producto.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Usuario.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Devolucionventa.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Anulaciondeabonos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Servicio.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Detalleservicio.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Atcm23.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Atcm24.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Atcm25.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Listaregalos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Detallelistaregalos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Operacionlistaregalos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Detalleoperacionlistaregalos.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Afiliado1.hbm.xml" />
+	<mapping resource="com/beco/colascr/transferencias/sincronizador/hibernate/Br_comprobantefiscal.hbm.xml" />
+  </session-factory>
+</hibernate-configuration>

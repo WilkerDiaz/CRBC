@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Perfil"
+    table="perfil"
+>
+
+    <id
+        name="codperfil"
+        type="java.lang.String"
+        column="codperfil"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="descripcion"
+        type="java.lang.String"
+        column="descripcion"
+        not-null="true"
+        length="20"
+    />
+    <property
+        name="nivelauditoria"
+        type="java.lang.String"
+        column="nivelauditoria"
+        length="1"
+    />
+    <property
+        name="regvigente"
+        type="java.lang.String"
+        column="regvigente"
+        length="1"
+    />
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

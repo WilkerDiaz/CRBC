@@ -1,0 +1,6 @@
+1.- Crear un espacio de trabajo en rational/eclipse que apunte a la ruta donde se realizó el checkout
+2.- Desde rational/eclipse importar proyectos existentes en el espacio de trabajo
+3.- Configurar rational/eclipse para que utilice por defecto java1.4
+3.- Configurar rational/eclipse para que no falle por dependencias circulares
+4.- Crear las bases de datos necesarias (Los scripts de creación se encuentran en proyecto/dist/sql)
+5.- Copiar los archivos .dll que se encuentran en la carpeta jars en C:\Windows

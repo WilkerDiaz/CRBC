@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD//EN" "http://hibernate.sourceforge.net/hibernate-configuration-2.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+  
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Transaccionafiliadocrm.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Producto.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Prodcodigoexterno.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Afiliado.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Lineaseccion.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Usuario.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Detalleafiliado.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Auditoria.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Atcm23.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Atcm24.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Atcm25.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Servidortienda.hbm.xml" />
+	<mapping resource="com/becoblohm/cr/sincronizador/hibernate/Tipoeventolistaregalos.hbm.xml" />
+  </session-factory>
+</hibernate-configuration>

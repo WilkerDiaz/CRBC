@@ -1,0 +1,1 @@
+java -jar CR-DataFile.jar server CR.prodcodigoexterno CR.producto CR.afiliado.ignore CR.afiliado.replace

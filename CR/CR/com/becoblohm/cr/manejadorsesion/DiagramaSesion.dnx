@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="7a259ded-00ff-e8be-046b-c0a80155aa77" version="8">
+  <Diagram DiagramId="7a259dee-00ff-e585-08a0-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a25acc2-00ff-fe22-5c97-c0a80155aa77" sourceConnectors="7a26add7-00ff-e5a3-07b2-c0a80155aa77" targetConnectors="7a262444-00ff-e091-1d66-c0a80155aa77 7a2649dd-00ff-fa64-220a-c0a80155aa77 7a2673cb-00ff-f5bc-3377-c0a80155aa77" PositionX="33800" PositionY="1800" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})" Name="Caja" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a25acc3-00ff-ff35-7029-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})" Name="Caja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a25acc4-00ff-e494-7922-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})" Name="Caja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a25acc5-00ff-e5a7-00ce-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})" Name="Caja" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a25acc6-00ff-e26e-0a5e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})" Name="Caja" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a25fb8e-00ff-e1bf-1146-c0a80155aa77" sourceConnectors="7a262444-00ff-e091-1d66-c0a80155aa77 7a26addb-00ff-e9ef-429b-c0a80155aa77 7a26eead-00ff-fee2-6392-c0a80155aa77" targetConnectors="7a26ade7-00ff-f938-7a7f-c0a80155aa77" PositionX="14200" PositionY="1200" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})" Name="MaquinaDeEstado" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a25fb8f-00ff-e2d2-1e0e-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})" Name="MaquinaDeEstado" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a25fb90-00ff-e5cf-2714-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})" Name="MaquinaDeEstado" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a25fb91-00ff-e6e2-2ec8-c0a80155aa77" Ratio="-1.0" Collapsed="true">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})" Name="MaquinaDeEstado" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a25fb92-00ff-e3a8-385b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})" Name="MaquinaDeEstado" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a262444-00ff-e091-1d66-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a25fb8e-00ff-e1bf-1146-c0a80155aa77" target="7a25acc2-00ff-fe22-5c97-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a262445-00ff-e1a4-2875-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a262446-00ff-fe6b-32b9-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a262447-00ff-ff7e-3cb0-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a263fea-00ff-e441-68f1-c0a80155aa77" sourceConnectors="7a2649dd-00ff-fa64-220a-c0a80155aa77 7a26addf-00ff-ee3c-7e9b-c0a80155aa77 7a26eeb1-00ff-e0cb-2595-c0a80155aa77" PositionX="11900" PositionY="15300" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})" Name="MaquinaDeEstadoServicio" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a263feb-00ff-e555-771c-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})" Name="MaquinaDeEstadoServicio" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a263fec-00ff-eab4-0081-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})" Name="MaquinaDeEstadoServicio" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a263fed-00ff-ebc7-083b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})" Name="MaquinaDeEstadoServicio" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a263fee-00ff-e88e-121e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})" Name="MaquinaDeEstadoServicio" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a2649dd-00ff-fa64-220a-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a263fea-00ff-e441-68f1-c0a80155aa77" target="7a25acc2-00ff-fe22-5c97-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a2649de-00ff-f72b-2d86-c0a80155aa77" FromLine="-26" FromEnd="54" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a2649df-00ff-f83e-37e6-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a2649e0-00ff-e001-4220-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a266f37-00ff-ec9b-60c7-c0a80155aa77" sourceConnectors="7a2673cb-00ff-f5bc-3377-c0a80155aa77 7a26ade3-00ff-f4eb-3c3c-c0a80155aa77" PositionX="33500" PositionY="15400" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})" Name="MaquinaDeEstadoVenta" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a266f38-00ff-f1fa-6f21-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})" Name="MaquinaDeEstadoVenta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a266f39-00ff-f30d-785d-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})" Name="MaquinaDeEstadoVenta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a266f3a-00ff-efd4-0025-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})" Name="MaquinaDeEstadoVenta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a266f3b-00ff-f0e7-09fb-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})" Name="MaquinaDeEstadoVenta" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a2673cb-00ff-f5bc-3377-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a266f37-00ff-ec9b-60c7-c0a80155aa77" target="7a25acc2-00ff-fe22-5c97-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a2673cc-00ff-fb1c-3f16-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a2673cd-00ff-fc2f-4970-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a2673ce-00ff-f8f6-531a-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26acdd-00ff-e37b-3bd3-c0a80155aa77" sourceConnectors="7a26ade7-00ff-f938-7a7f-c0a80155aa77" targetConnectors="7a26add7-00ff-e5a3-07b2-c0a80155aa77 7a26addb-00ff-e9ef-429b-c0a80155aa77 7a26addf-00ff-ee3c-7e9b-c0a80155aa77 7a26ade3-00ff-f4eb-3c3c-c0a80155aa77" PositionX="25400" PositionY="15400" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})" Name="Sesion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26acde-00ff-e042-4951-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})" Name="Sesion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26acdf-00ff-e155-5252-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})" Name="Sesion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a26ace0-00ff-e918-5a09-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})" Name="Sesion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a26ace1-00ff-ea2b-6394-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})" Name="Sesion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26add7-00ff-e5a3-07b2-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a25acc2-00ff-fe22-5c97-c0a80155aa77" target="7a26acdd-00ff-e37b-3bd3-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26add8-00ff-eb02-13ef-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26add9-00ff-ec15-1e1a-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26adda-00ff-e8dc-27a1-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Caja})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26addb-00ff-e9ef-429b-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a25fb8e-00ff-e1bf-1146-c0a80155aa77" target="7a26acdd-00ff-e37b-3bd3-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26addc-00ff-ef4f-4e52-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26addd-00ff-f062-58a7-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26adde-00ff-ed29-6243-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="9" y="23"/>
+      <BendPoints x="-430" y="-545"/>
+      <BendPoints x="156" y="379"/>
+      <BendPoints x="-283" y="-189"/>
+      <BendPoints x="405" y="545"/>
+      <BendPoints x="-34" y="-23"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26addf-00ff-ee3c-7e9b-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a263fea-00ff-e441-68f1-c0a80155aa77" target="7a26acdd-00ff-e37b-3bd3-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26ade0-00ff-f5fe-0a74-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26ade1-00ff-f711-14de-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26ade2-00ff-f3d8-1e8e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26ade3-00ff-f4eb-3c3c-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a266f37-00ff-ec9b-60c7-c0a80155aa77" target="7a26acdd-00ff-e37b-3bd3-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26ade4-00ff-fa4b-480e-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26ade5-00ff-fb5e-5257-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26ade6-00ff-f825-5c03-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoVenta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-150" y="20"/>
+      <BendPoints x="2530" y="-350"/>
+      <BendPoints x="-2510" y="350"/>
+      <BendPoints x="170" y="-20"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26ade7-00ff-f938-7a7f-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a26acdd-00ff-e37b-3bd3-c0a80155aa77" target="7a25fb8e-00ff-e1bf-1146-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26ade8-00ff-fe97-0630-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26ade9-00ff-ffaa-10a6-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26adea-00ff-fc71-1a3c-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Sesion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-12" y="-23"/>
+      <BendPoints x="427" y="545"/>
+      <BendPoints x="-132" y="-267"/>
+      <BendPoints x="307" y="301"/>
+      <BendPoints x="-416" y="-545"/>
+      <BendPoints x="23" y="23"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26eea8-00ff-f982-6549-c0a80155aa77" targetConnectors="7a26eead-00ff-fee2-6392-c0a80155aa77 7a26eeb1-00ff-e0cb-2595-c0a80155aa77" PositionX="10500" PositionY="7600" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda})" Name="Tienda" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26eea9-00ff-fa95-735b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda})" Name="Tienda" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26eeaa-00ff-f75c-7c90-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda})" Name="Tienda" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a26eeab-00ff-f86f-0438-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda})" Name="Tienda" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a26eeac-00ff-fdcf-0dc4-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda})" Name="Tienda" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26eead-00ff-fee2-6392-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a25fb8e-00ff-e1bf-1146-c0a80155aa77" target="7a26eea8-00ff-f982-6549-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26eeae-00ff-fba8-6ff3-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26eeaf-00ff-fcbc-7a37-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26eeb0-00ff-ffb8-03dd-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstado})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a26eeb1-00ff-e0cb-2595-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a263fea-00ff-e441-68f1-c0a80155aa77" target="7a26eea8-00ff-f982-6549-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26eeb2-00ff-fd92-31f5-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a26eeb3-00ff-fea5-3c54-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a26eeb4-00ff-e404-4609-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.MaquinaDeEstadoServicio})(~jclass{!pid%CR}{%com.becoblohm.cr.manejadorsesion.Tienda}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-36" y="-24"/>
+      <BendPoints x="764" y="500"/>
+      <BendPoints x="-768" y="-500"/>
+      <BendPoints x="32" y="24"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac859eb3-00ff-ea27-50ee-c0a80155aa77" PositionX="19200" PositionY="-1600" ExtentX="9650" ExtentY="1500" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac859eb2-00ff-e914-3f60-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac859eb4-00ff-ef87-5d86-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac859eb2-00ff-e914-3f60-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac859eb2-00ff-e914-3f60-c0a80155aa77" Label="Diagrama Paquete Sesion"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

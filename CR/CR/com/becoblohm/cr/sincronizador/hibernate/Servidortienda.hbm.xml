@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.becoblohm.cr.sincronizador.hibernate.Servidortienda" 
+    table="afiliado"
+>
+
+    <id
+        name="numtienda"
+        type="int"
+        column="numtienda"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="dbclase"
+        type="java.lang.String"
+        column="dbclase"
+        not-null="true"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    
+        <property
+        name="dburlservidor"
+        type="java.lang.String"
+        column="dburlservidor"
+        not-null="false"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    
+        <property
+        name="dbusuario"
+        type="java.lang.String"
+        column="dbusuario"
+        not-null="true"
+        length="30"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    
+        <property
+        name="dbclave"
+        type="java.lang.String"
+        column="dbclave"
+        not-null="true"
+        length="30"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

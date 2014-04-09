@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="93ad5656-00ff-e9b1-271d-c0a80155aa77" version="8">
+  <Diagram DiagramId="93ad5657-00ff-eac4-2b51-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ad7bc0-00ff-fa15-2b38-c0a80155aa77" sourceConnectors="93ada517-00ff-e7e1-4f97-c0a80155aa77 93adc3bb-00ff-e203-03f1-c0a80155aa77 93ae897c-00ff-f6be-3d84-c0a80155aa77 93aec8d2-00ff-f541-419b-c0a80155aa77" PositionX="13650" PositionY="13500" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})" Name="Anulacion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ad7bc1-00ff-fb28-3ee8-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})" Name="Anulacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ad7bc2-00ff-f7ef-47e9-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})" Name="Anulacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93ad7bc3-00ff-f902-4fa0-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})" Name="Anulacion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93ad7bc4-00ff-fe61-592b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})" Name="Anulacion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ada512-00ff-e281-1d82-c0a80155aa77" targetConnectors="93ada517-00ff-e7e1-4f97-c0a80155aa77 93ae360c-00ff-e415-165f-c0a80155aa77 93af2a57-00ff-e0d2-00df-c0a80155aa77" PositionX="13700" PositionY="16900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente})" Name="Cliente" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ada513-00ff-e394-2b53-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente})" Name="Cliente" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ada514-00ff-e8f4-3476-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente})" Name="Cliente" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93ada515-00ff-ea07-3c17-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente})" Name="Cliente" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93ada516-00ff-e6ce-45dd-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente})" Name="Cliente" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ada517-00ff-e7e1-4f97-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ad7bc0-00ff-fa15-2b38-c0a80155aa77" target="93ada512-00ff-e281-1d82-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ada518-00ff-ed40-5a71-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ada519-00ff-ee53-64f6-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ada51a-00ff-eb1a-6e86-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93adb3f7-00ff-edb1-3dc7-c0a80155aa77" sourceConnectors="93ae6a0d-00ff-f7f4-255b-c0a80155aa77" targetConnectors="93adc3bf-00ff-e64f-3ab9-c0a80155aa77" PositionX="5650" PositionY="1750" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})" Name="Detalle" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93adb3f8-00ff-f311-4bbb-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})" Name="Detalle" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adb3f9-00ff-f424-550c-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})" Name="Detalle" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93adb3fa-00ff-f0eb-5cb4-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})" Name="Detalle" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93adb3fb-00ff-f1fe-6640-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})" Name="Detalle" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93adc3b6-00ff-fca3-0691-c0a80155aa77" sourceConnectors="93adc3bf-00ff-e64f-3ab9-c0a80155aa77 93ae8980-00ff-ea54-7d41-c0a80155aa77" targetConnectors="93adc3bb-00ff-e203-03f1-c0a80155aa77 93ae3608-00ff-ffc9-5c25-c0a80155aa77 93aec8e5-00ff-f05b-165c-c0a80155aa77 93af2a53-00ff-fc85-3226-c0a80155aa77" PositionX="5250" PositionY="4950" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})" Name="DetalleTransaccion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93adc3b7-00ff-fdb6-13ed-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})" Name="DetalleTransaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adc3b8-00ff-e316-1cf4-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})" Name="DetalleTransaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93adc3b9-00ff-e429-24b8-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})" Name="DetalleTransaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93adc3ba-00ff-e0f0-2e56-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})" Name="DetalleTransaccion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93adc3bb-00ff-e203-03f1-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ad7bc0-00ff-fa15-2b38-c0a80155aa77" target="93adc3b6-00ff-fca3-0691-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adc3bc-00ff-e762-0f33-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93adc3bd-00ff-e875-196d-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adc3be-00ff-e53c-2340-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="56" y="4"/>
+      <BendPoints x="378" y="346"/>
+      <BendPoints x="130" y="4"/>
+      <BendPoints x="452" y="346"/>
+      <BendPoints x="130" y="-442"/>
+      <BendPoints x="452" y="-100"/>
+      <BendPoints x="-102" y="-442"/>
+      <BendPoints x="220" y="-100"/>
+      <BendPoints x="-102" y="-338"/>
+      <BendPoints x="220" y="4"/>
+      <BendPoints x="-252" y="-338"/>
+      <BendPoints x="70" y="4"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93adc3bf-00ff-e64f-3ab9-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93adc3b6-00ff-fca3-0691-c0a80155aa77" target="93adb3f7-00ff-edb1-3dc7-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adc3c6-00ff-f038-45f5-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93adc3c7-00ff-f14b-5053-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93adc3c8-00ff-f6ab-59ff-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae34b0-00ff-f8a2-377b-c0a80155aa77" sourceConnectors="93ae3608-00ff-ffc9-5c25-c0a80155aa77 93ae360c-00ff-e415-165f-c0a80155aa77 93ae8984-00ff-eea0-3eb2-c0a80155aa77 93aec8d6-00ff-f98d-0754-c0a80155aa77" PositionX="18650" PositionY="13200" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})" Name="Devolucion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae34b1-00ff-f9b5-459e-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})" Name="Devolucion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae34b2-00ff-f67c-4f0b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})" Name="Devolucion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93ae34b3-00ff-f78f-5741-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})" Name="Devolucion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93ae34b4-00ff-fcee-60e0-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})" Name="Devolucion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae3608-00ff-ffc9-5c25-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ae34b0-00ff-f8a2-377b-c0a80155aa77" target="93adc3b6-00ff-fca3-0691-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae3609-00ff-e0dc-6786-c0a80155aa77" FromLine="-14" FromEnd="54" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae360a-00ff-fda3-71dc-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae360b-00ff-feb6-7b7c-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-4" y="-24"/>
+      <BendPoints x="518" y="306"/>
+      <BendPoints x="-4" y="-474"/>
+      <BendPoints x="518" y="-144"/>
+      <BendPoints x="-328" y="-474"/>
+      <BendPoints x="194" y="-144"/>
+      <BendPoints x="-328" y="-396"/>
+      <BendPoints x="194" y="-66"/>
+      <BendPoints x="-476" y="-396"/>
+      <BendPoints x="46" y="-66"/>
+      <BendPoints x="-476" y="-354"/>
+      <BendPoints x="46" y="-24"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae360c-00ff-e415-165f-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ae34b0-00ff-f8a2-377b-c0a80155aa77" target="93ada512-00ff-e281-1d82-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae360d-00ff-e528-21a7-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae360e-00ff-e1ef-2be4-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae360f-00ff-e302-357e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae6a08-00ff-f294-133d-c0a80155aa77" targetConnectors="93ae6a0d-00ff-f7f4-255b-c0a80155aa77 93af2a4f-00ff-fa9c-64c9-c0a80155aa77" PositionX="-1000" PositionY="7800" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto})" Name="Impuesto" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae6a09-00ff-f3a7-2196-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto})" Name="Impuesto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae6a0a-00ff-f06e-2ab9-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto})" Name="Impuesto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93ae6a0b-00ff-f181-3264-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto})" Name="Impuesto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93ae6a0c-00ff-f6e0-3c20-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto})" Name="Impuesto" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae6a0d-00ff-f7f4-255b-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93adb3f7-00ff-edb1-3dc7-c0a80155aa77" target="93ae6a08-00ff-f294-133d-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae6a0e-00ff-f4ba-30ad-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae6a0f-00ff-f5cd-3b39-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae6a10-00ff-f8ca-44c9-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Detalle})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-58" y="4"/>
+      <BendPoints x="208" y="-238"/>
+      <BendPoints x="-262" y="4"/>
+      <BendPoints x="4" y="-238"/>
+      <BendPoints x="-262" y="218"/>
+      <BendPoints x="4" y="-24"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae8977-00ff-ed12-0619-c0a80155aa77" targetConnectors="93ae897c-00ff-f6be-3d84-c0a80155aa77 93ae8980-00ff-ea54-7d41-c0a80155aa77 93ae8984-00ff-eea0-3eb2-c0a80155aa77 93aec8e9-00ff-f4a8-5f68-c0a80155aa77 93af2a5b-00ff-e51e-510e-c0a80155aa77" PositionX="2600" PositionY="7850" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto})" Name="Producto" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae8978-00ff-f272-14a5-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto})" Name="Producto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae8979-00ff-f385-1db6-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto})" Name="Producto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93ae897a-00ff-f04b-255b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto})" Name="Producto" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93ae897b-00ff-f15f-2efa-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto})" Name="Producto" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae897c-00ff-f6be-3d84-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ad7bc0-00ff-fa15-2b38-c0a80155aa77" target="93ae8977-00ff-ed12-0619-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae897d-00ff-f7d1-48ea-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae897e-00ff-f498-5320-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae897f-00ff-f5ab-5cdc-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-56" y="4"/>
+      <BendPoints x="386" y="230"/>
+      <BendPoints x="-114" y="4"/>
+      <BendPoints x="328" y="230"/>
+      <BendPoints x="-114" y="108"/>
+      <BendPoints x="328" y="334"/>
+      <BendPoints x="-442" y="108"/>
+      <BendPoints x="0" y="334"/>
+      <BendPoints x="-442" y="-204"/>
+      <BendPoints x="0" y="22"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae8980-00ff-ea54-7d41-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93adc3b6-00ff-fca3-0691-c0a80155aa77" target="93ae8977-00ff-ed12-0619-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae8981-00ff-eb67-08cf-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae8982-00ff-e82e-130e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae8983-00ff-e941-1cdc-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93ae8984-00ff-eea0-3eb2-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ae34b0-00ff-f8a2-377b-c0a80155aa77" target="93ae8977-00ff-ed12-0619-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae8985-00ff-efb4-4a27-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93ae8987-00ff-ed8d-54a5-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93ae8988-00ff-f2ed-5e34-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="10" y="22"/>
+      <BendPoints x="652" y="236"/>
+      <BendPoints x="10" y="192"/>
+      <BendPoints x="652" y="406"/>
+      <BendPoints x="-672" y="192"/>
+      <BendPoints x="-30" y="406"/>
+      <BendPoints x="-672" y="-192"/>
+      <BendPoints x="-30" y="22"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aea675-00ff-f0ea-003b-c0a80155aa77" targetConnectors="93aec8e1-00ff-ec0f-4e4d-c0a80155aa77" PositionX="13550" PositionY="3900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion})" Name="Promocion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aea676-00ff-edb1-0ea3-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion})" Name="Promocion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aea677-00ff-eec4-17cb-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion})" Name="Promocion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93aea678-00ff-f424-1f7d-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion})" Name="Promocion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93aea679-00ff-f537-2913-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion})" Name="Promocion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec845-00ff-f785-070c-c0a80155aa77" sourceConnectors="93aec8e1-00ff-ec0f-4e4d-c0a80155aa77 93aec8e5-00ff-f05b-165c-c0a80155aa77 93aec8e9-00ff-f4a8-5f68-c0a80155aa77" targetConnectors="93aec8d2-00ff-f541-419b-c0a80155aa77 93aec8d6-00ff-f98d-0754-c0a80155aa77 93af2a4b-00ff-f650-184e-c0a80155aa77" PositionX="13650" PositionY="7650" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})" Name="Transaccion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec846-00ff-f44c-160c-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})" Name="Transaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec847-00ff-f55f-1f0d-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})" Name="Transaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93aec848-00ff-fabe-26c4-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})" Name="Transaccion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93aec849-00ff-fbd1-304f-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})" Name="Transaccion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec8d2-00ff-f541-419b-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ad7bc0-00ff-fa15-2b38-c0a80155aa77" target="93aec845-00ff-f785-070c-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8d3-00ff-f654-4d39-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec8d4-00ff-fbb4-5771-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8d5-00ff-fcc7-6174-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Anulacion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec8d6-00ff-f98d-0754-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93ae34b0-00ff-f8a2-377b-c0a80155aa77" target="93aec845-00ff-f785-070c-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8d7-00ff-faa1-131f-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec8d8-00ff-e000-1d74-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8d9-00ff-e113-2709-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Devolucion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec8e1-00ff-ec0f-4e4d-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93aec845-00ff-f785-070c-c0a80155aa77" target="93aea675-00ff-f0ea-003b-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8e2-00ff-e8d6-59f0-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec8e3-00ff-e9e9-6434-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8e4-00ff-ef48-6e2b-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Promocion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec8e5-00ff-f05b-165c-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93aec845-00ff-f785-070c-c0a80155aa77" target="93adc3b6-00ff-fca3-0691-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8e6-00ff-ed22-226d-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec8e7-00ff-ee35-2ca7-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8e8-00ff-f395-3658-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93aec8e9-00ff-f4a8-5f68-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93aec845-00ff-f785-070c-c0a80155aa77" target="93ae8977-00ff-ed12-0619-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8ea-00ff-f16f-6b0e-c0a80155aa77" FromLine="-35" FromEnd="49" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93aec8eb-00ff-f282-7574-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93aec8ec-00ff-f7e1-7f03-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af201a-00ff-f1de-029a-c0a80155aa77" sourceConnectors="93af2a4b-00ff-f650-184e-c0a80155aa77 93af2a4f-00ff-fa9c-64c9-c0a80155aa77 93af2a53-00ff-fc85-3226-c0a80155aa77 93af2a57-00ff-e0d2-00df-c0a80155aa77 93af2a5b-00ff-e51e-510e-c0a80155aa77" PositionX="8300" PositionY="13150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})" Name="Venta" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af201b-00ff-f2f1-102b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})" Name="Venta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af201c-00ff-f851-1a15-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})" Name="Venta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="93af201d-00ff-f964-21b3-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})" Name="Venta" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="93af201e-00ff-f62a-2b35-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})" Name="Venta" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af2a4b-00ff-f650-184e-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93af201a-00ff-f1de-029a-c0a80155aa77" target="93aec845-00ff-f785-070c-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a4c-00ff-fbaf-242e-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af2a4d-00ff-fcc2-2e9e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a4e-00ff-f989-382d-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Transaccion}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af2a4f-00ff-fa9c-64c9-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93af201a-00ff-f1de-029a-c0a80155aa77" target="93ae6a08-00ff-f294-133d-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a50-00ff-fd98-709f-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af2a51-00ff-feab-7ad5-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a52-00ff-fb72-0462-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Impuesto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-56" y="4"/>
+      <BendPoints x="316" y="218"/>
+      <BendPoints x="-368" y="4"/>
+      <BendPoints x="4" y="218"/>
+      <BendPoints x="-368" y="-192"/>
+      <BendPoints x="4" y="22"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af2a53-00ff-fc85-3226-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93af201a-00ff-f1de-029a-c0a80155aa77" target="93adc3b6-00ff-fca3-0691-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a54-00ff-e1e5-3e27-c0a80155aa77" FromLine="-17" FromEnd="54" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af2a55-00ff-e2f8-4860-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a56-00ff-ffbe-51f0-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.DetalleTransaccion}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-8" y="-24"/>
+      <BendPoints x="100" y="304"/>
+      <BendPoints x="-8" y="-40"/>
+      <BendPoints x="100" y="288"/>
+      <BendPoints x="-86" y="-40"/>
+      <BendPoints x="22" y="288"/>
+      <BendPoints x="-86" y="-306"/>
+      <BendPoints x="22" y="22"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af2a57-00ff-e0d2-00df-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93af201a-00ff-f1de-029a-c0a80155aa77" target="93ada512-00ff-e281-1d82-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a58-00ff-e631-0d24-c0a80155aa77" FromLine="-22" FromEnd="70" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af2a59-00ff-e744-17a9-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a5a-00ff-e40b-212a-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Cliente}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="93af2a5b-00ff-e51e-510e-c0a80155aa77" Routing="1" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="93af201a-00ff-f1de-029a-c0a80155aa77" target="93ae8977-00ff-ed12-0619-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a5c-00ff-ea7d-5d24-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="93af2a5d-00ff-eb91-67a9-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="93af2a5e-00ff-e857-712a-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Venta})(~jclass{!pid%CR}{%com.becoblohm.cr.manejarventa.Producto}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="-58" y="-16"/>
+      <BendPoints x="170" y="196"/>
+      <BendPoints x="-200" y="-16"/>
+      <BendPoints x="28" y="196"/>
+      <BendPoints x="-200" y="-190"/>
+      <BendPoints x="28" y="22"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac8b4309-00ff-e4e9-796d-c0a80155aa77" PositionX="5300" PositionY="-100" ExtentX="12375" ExtentY="1075" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac8b4308-00ff-e3d6-6434-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac8b430a-00ff-e1af-055d-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac8b4308-00ff-e3d6-6434-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac8b4308-00ff-e3d6-6434-c0a80155aa77" Label="Diagrama Paquete Manejar Venta"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

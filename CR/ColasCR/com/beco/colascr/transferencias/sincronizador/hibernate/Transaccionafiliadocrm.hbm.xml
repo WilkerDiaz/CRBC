@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Transaccionafiliadocrm" 
+    table="transaccionafiliadocrm"
+>
+ <meta attribute="class-description">
+			@hibernate.class table="transaccionafiliadocrm" schema=""
+</meta>
+   	    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.TransaccionafiliadocrmPK">
+       	    <key-property 
+           		column="numtienda" 
+           		name="numtienda" 
+            	type="int"
+       		/>
+        	<key-property 
+            	name="fechatransaccion" 
+            	column="fechatransaccion" 
+            	type="java.sql.Date"
+            	length="10"
+        	/>
+        	<key-property 
+            	name="numcajafinaliza" 
+            	column="numcajafinaliza" 
+            	type="int"
+        	/>
+        	<key-property 
+            	name="numtransaccion" 
+            	column="numtransaccion" 
+            	type="int"
+        	/>
+        	<key-property 
+            	name="codafiliado" 
+            	column="codafiliado" 
+            	type="java.lang.String"
+            	length="12"
+        	/>
+      </composite-id>    
+
+    	<property
+        	column="contribuyente"
+        	name="contribuyente"
+        	type="java.lang.String"
+        	not-null="true"
+            length="1"
+   		 >
+   		  <meta attribute="use-in-tostring">true</meta>
+    	</property>
+    	<property
+        	column="regactualizado"
+        	name="regactualizado"
+        	type="java.lang.String"
+        	not-null="true"
+            length="1"
+   		 >
+   		  <meta attribute="use-in-tostring">true</meta>
+    	</property>
+    	<property
+        	column="horainiciacrm"
+        	name="horainiciacrm"
+        	type="java.sql.Time"
+        	not-null="true"
+        	length="10"
+   		 >
+    	</property>
+    	<property
+        	column="horafinalizacrm"
+        	name="horafinalizacrm"
+        	type="java.sql.Time"
+        	not-null="true"
+        	length="10"
+   		 >
+    	</property>
+    	
+    <!-- associations -->
+    	 
+</class>
+</hibernate-mapping>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Detallelistaregalos"
+    table="detallelistaregalos"
+>
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.DetallelistaregalosPK">
+	    <key-property 
+	        name="codlista" 
+	        column="codlista" 
+	        type="int"
+	    />
+        <key-property 
+            name="codproducto" 
+            column="codproducto" 
+            type="java.lang.String"
+            length="12"
+        	>
+	    	<meta attribute="use-in-tostring">true</meta>
+    	</key-property>
+    </composite-id>    
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="correlativoitem"
+        type="int"
+        column="correlativoitem"
+    />
+    <property
+        name="cantidad"
+        type="java.math.BigDecimal"
+        column="cantidad"
+    />
+    <property
+        name="precioregular"
+        type="java.math.BigDecimal"
+        column="precioregular"
+    />
+    <property
+        name="preciofinal"
+        type="java.math.BigDecimal"
+        column="preciofinal"
+    />
+    <property
+        name="montoimpuesto"
+        type="java.math.BigDecimal"
+        column="montoimpuesto"
+    />
+    <property
+        name="codtipocaptura"
+        type="java.lang.String"
+        column="codtipocaptura"
+        length="2"
+   		>
+    	<meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codpromocion"
+        type="java.lang.Integer"
+        column="codpromocion"
+    />
+    <property
+        name="cantcomprado"
+        type="java.math.BigDecimal"
+        column="cantcomprado"
+    />
+    <property
+        name="montoabonos"
+        type="java.math.BigDecimal"
+        column="montoabonos"
+    />
+            
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

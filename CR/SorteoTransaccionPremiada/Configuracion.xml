@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE map SYSTEM 'http://java.sun.com/dtd/preferences.dtd'>
+
+<map MAP_XML_VERSION="1.0">
+  <entry key="dbClaseLocal" value="com.mysql.jdbc.Driver" />
+  <entry key="dbClaseServidor" value="com.ibm.as400.access.AS400JDBCDriver" />
+  <entry key="dbUrlLocal" value="jdbc:mysql://127.0.0.1/CR" />
+  <entry key="dbUsuario" value="rootcr" />
+  <entry key="dbClave" value="root2003" />
+  <entry key="numTienda" value="03" />
+</map>
+

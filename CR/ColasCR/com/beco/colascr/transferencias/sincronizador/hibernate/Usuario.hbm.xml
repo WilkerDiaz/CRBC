@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Usuario" 
+    table="usuario"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.UsuarioPK">
+        <key-property 
+            name="numtienda" 
+            column="numtienda" 
+            type="java.lang.Short"
+            length="6"
+        />
+        <key-property 
+            name="numficha" 
+            column="numficha" 
+            type="java.lang.String"
+            length="8"
+        />
+    </composite-id>    
+
+    <property
+        name="codigobarra"
+        type="java.lang.String"
+        column="codigobarra"
+        not-null="true"
+        unique="true"
+        length="32"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="codperfil"
+        type="java.lang.String"
+        column="codperfil"
+        not-null="true"
+        length="3"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="clave"
+        type="java.lang.String"
+        column="clave"
+        not-null="true"
+        length="32"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="nivelauditoria"
+        type="java.lang.String"
+        column="nivelauditoria"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="nombre"
+        type="java.lang.String"
+        column="nombre"
+        length="50"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="puedecambiarclave"
+        type="java.lang.String"
+        column="puedecambiarclave"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="indicacambiarclave"
+        type="java.lang.String"
+        column="indicacambiarclave"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="fechacreacion"
+        type="java.sql.Date"
+        column="fechacreacion"
+        not-null="true"
+        length="10"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="ultimocambioclave"
+        type="java.sql.Timestamp"
+        column="ultimocambioclave"
+        length="14"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="tiempovigenciaclave"
+        type="short"
+        column="tiempovigenciaclave"
+        not-null="true"
+        length="6"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="regvigente"
+        type="java.lang.String"
+        column="regvigente"
+        not-null="true"
+        length="1"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+    <property
+        name="actualizacion"
+        type="java.sql.Timestamp"
+        column="actualizacion"
+        length="14"
+    >
+        <meta attribute="use-in-tostring">true</meta>
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Servicio" 
+    table="servicio"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.ServicioPK">
+        <key-property 
+            name="numtienda" 
+            column="numtienda" 
+            type="int"
+        />
+        <key-property 
+            name="codtiposervicio" 
+            column="codtiposervicio" 
+            type="java.lang.String"
+        />
+        <key-property 
+            name="numservicio" 
+            column="numservicio" 
+            type="int"
+        />
+        <key-property 
+            name="fecha" 
+            column="fecha" 
+            type="java.util.Date"
+        />
+    </composite-id>
+
+    <property
+        name="codcliente"
+        type="java.lang.String"
+        column="codcliente"
+    >
+    </property>
+    <property
+        name="montobase"
+        type="java.math.BigDecimal"
+        column="montobase"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="montoimpuesto"
+        type="java.math.BigDecimal"
+        column="montoimpuesto"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="lineasfacturacion"
+        type="int"
+        column="lineasfacturacion"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="condicionabono"
+        type="java.lang.String"
+        column="condicionabono"
+        length="1"
+    >
+    </property>
+    <property
+        name="codcajero"
+        type="java.lang.String"
+        column="codcajero"
+    >
+    </property>
+    <property
+        name="numtransaccionventa"
+        type="java.lang.Integer"
+        column="numtransaccionventa"
+    >
+    </property>
+    <property
+        name="fechatransaccionvnta"
+        type="java.util.Date"
+        column="fechatransaccionvnta"
+    >
+    </property>
+    <property
+        name="numcajaventa"
+        type="java.lang.Integer"
+        column="numcajaventa"
+    >
+    </property>
+    <property
+        name="direcciondespacho"
+        type="java.lang.String"
+        column="direcciondespacho"
+    >
+    </property>
+    <property
+        name="cambiadireccion"
+        type="java.lang.String"
+        column="cambiadireccion"
+        length="1"
+    >
+    </property>
+    <property
+        name="horainicia"
+        type="java.sql.Time"
+        column="horainicia"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="horafinaliza"
+        type="java.sql.Time"
+        column="horafinaliza"
+    >
+    </property>
+    <property
+        name="estadoservicio"
+        type="java.lang.String"
+        column="estadoservicio"
+        length="1"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="numcajaanula"
+        type="java.lang.Integer"
+        column="numcajaanula"
+    >
+    </property>
+    <property
+        name="codusuarioanula"
+        type="java.lang.String"
+        column="codusuarioanula"
+    >
+    </property>
+    <property
+        name="regactualizado"
+        type="java.lang.String"
+        column="regactualizado"
+        length="1"
+        not-null="true"
+    >
+    </property>
+    <property
+        name="tipoapartado"
+        type="java.lang.Integer"
+        column="tipoapartado"
+    >
+    </property>
+    <property
+        name="fechavence"
+        type="java.util.Date"
+        column="fechavence"
+    >
+    </property>
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Devolucionventa" 
+    table="devolucionventa"
+>
+    <meta attribute="implements" inherit="false">net.sf.hibernate.Lifecycle</meta>
+
+    <composite-id name="comp_id" class="com.beco.colascr.transferencias.sincronizador.hibernate.DevolucionventaPK">
+        <key-property 
+            name="numtiendadevolucion" 
+            column="numtiendadevolucion" 
+            type="int"
+        />
+        <key-property 
+            name="fechadevolucion" 
+            column="fechadevolucion" 
+            type="java.util.Date"
+        />
+        <key-property 
+            name="numcajadevolucion" 
+            column="numcajadevolucion" 
+            type="int"
+        />
+        <key-property 
+            name="numtransacciondev" 
+            column="numtransacciondev" 
+            type="int"
+        />
+        <key-property 
+            name="numtiendaventa" 
+            column="numtiendaventa" 
+            type="int"
+        />
+        <key-property 
+            name="fechaventa" 
+            column="fechaventa" 
+            type="java.util.Date"
+        />
+        <key-property 
+            name="numcajaventa" 
+            column="numcajaventa" 
+            type="int"
+        />
+        <key-property 
+            name="numtransaccionvta" 
+            column="numtransaccionvta" 
+            type="int"
+        />
+    </composite-id>
+
+    <property
+        name="tipotransaccion"
+        type="java.lang.String"
+        column="tipotransaccion"
+        length="1"
+    >
+    </property>
+    <property
+        name="regactualizado"
+        type="java.lang.String"
+        column="regactualizado"
+        not-null="true"
+        length="1"
+    >
+    </property>
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

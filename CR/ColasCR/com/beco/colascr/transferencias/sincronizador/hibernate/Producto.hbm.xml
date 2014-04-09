@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+<!-- 
+    Created by the Middlegen Hibernate plugin
+
+    http://boss.bekk.no/boss/middlegen/
+    http://hibernate.sourceforge.net/
+-->
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Producto"
+    table="producto"
+>
+
+    <id
+        name="codproducto"
+        type="java.lang.String"
+        column="codproducto"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="descripcioncorta"
+        type="java.lang.String"
+        column="descripcioncorta"
+        not-null="true"
+        length="20"
+    />
+    <property
+        name="descripcionlarga"
+        type="java.lang.String"
+        column="descripcionlarga"
+        length="60"
+    />
+    <property
+        name="codunidadventa"
+        type="int"
+        column="codunidadventa"
+        not-null="true"
+        length="5"
+    />
+    <property
+        name="referenciaproveedor"
+        type="java.lang.String"
+        column="referenciaproveedor"
+        length="13"
+    />
+    <property
+        name="marca"
+        type="java.lang.String"
+        column="marca"
+        length="30"
+    />
+    <property
+        name="modelo"
+        type="java.lang.String"
+        column="modelo"
+        length="30"
+    />
+    <property
+        name="coddepartamento"
+        type="java.lang.String"
+        column="coddepartamento"
+        not-null="true"
+        length="2"
+    />
+    <property
+        name="codlineaseccion"
+        type="java.lang.String"
+        column="codlineaseccion"
+        not-null="true"
+        length="2"
+    />
+    <property
+        name="costolista"
+        type="java.math.BigDecimal"
+        column="costolista"
+        not-null="true"
+        length="13"
+    />
+    <property
+        name="precioregular"
+        type="java.math.BigDecimal"
+        column="precioregular"
+        not-null="true"
+        length="13"
+    />
+    <property
+        name="codimpuesto"
+        type="java.lang.String"
+        column="codimpuesto"
+        not-null="true"
+        length="3"
+    />
+    <property
+        name="cantidadventaempaque"
+        type="int"
+        column="cantidadventaempaque"
+        not-null="true"
+        length="10"
+    />
+    <property
+        name="desctoventaempaque"
+        type="java.math.BigDecimal"
+        column="desctoventaempaque"
+        length="5"
+    />
+    <property
+        name="indicadesctoempleado"
+        type="java.lang.String"
+        column="indicadesctoempleado"
+        not-null="true"
+        length="1"
+    />
+    <property
+        name="estadoproducto"
+        type="java.lang.String"
+        column="estadoproducto"
+        not-null="true"
+        length="1"
+    />
+
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

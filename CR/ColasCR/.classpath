@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/jars/CRPreferencesProxy.jar"/>
+	<classpathentry kind="lib" path="/jars/nanoxml-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/jars/hibernate2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CRDataFile"/>
+	<classpathentry kind="lib" path="/jars/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/jars/mailapi.jar"/>
+	<classpathentry kind="lib" path="/jars/smtp.jar"/>
+	<classpathentry kind="lib" path="/jars/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="/jars/mysql-connector-java-5.1.17.jar"/>
+	<classpathentry kind="lib" path="/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="7a197d6f-00ff-e7ae-264d-c0a80155aa77" version="8">
+  <Diagram DiagramId="7a197d70-00ff-eaab-2a88-c0a80155aa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a19ea33-00ff-f01a-7cfe-c0a80155aa77" targetConnectors="7a1aee36-00ff-e627-4ce9-c0a80155aa77 7a1b1b46-00ff-f8af-53b8-c0a80155aa77 7a1b3d26-00ff-ffb1-54bf-c0a80155aa77 7a1b706b-00ff-efbc-04a1-c0a80155aa77 7a1b9aa7-00ff-edb5-6075-c0a80155aa77 7a1bc938-00ff-ea21-5834-c0a80155aa77 7a1c0c3d-00ff-eed7-3ed4-c0a80155aa77 7a1c2f75-00ff-e151-3d1a-c0a80155aa77 7a1c5009-00ff-fa8b-7024-c0a80155aa77 7a1cc9b1-00ff-ec14-4016-c0a80155aa77 7a1ce8e2-00ff-f51e-6a68-c0a80155aa77 7a1d092b-00ff-e083-41cf-c0a80155aa77 7a1d2401-00ff-f32c-68b9-c0a80155aa77 7a1d4857-00ff-e6e7-1c09-c0a80155aa77 7a1d7294-00ff-ea40-1bff-c0a80155aa77 7a1e4f19-00ff-ee80-7944-c0a80155aa77 7a1e6cd0-00ff-f026-453a-c0a80155aa77 7a1eb322-00ff-faa7-09f6-c0a80155aa77" PositionX="17500" PositionY="4250" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr})" Name="ExcepcionCr" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a19ea43-00ff-e3af-19d5-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr})" Name="ExcepcionCr" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a19ea52-00ff-f16a-76fb-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr})" Name="ExcepcionCr" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a19eac0-00ff-fb35-5dbc-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr})" Name="ExcepcionCr" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a19eac1-00ff-fc48-743e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr})" Name="ExcepcionCr" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1aed99-00ff-e870-0130-c0a80155aa77" sourceConnectors="7a1aee36-00ff-e627-4ce9-c0a80155aa77" PositionX="6150" PositionY="3150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})" Name="AbonoExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1aed9a-00ff-e537-0f11-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})" Name="AbonoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1aed9b-00ff-e64a-1823-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})" Name="AbonoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1aed9c-00ff-eba9-1fe9-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})" Name="AbonoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1aed9d-00ff-ecbc-2994-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})" Name="AbonoExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1aee36-00ff-e627-4ce9-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1aed99-00ff-e870-0130-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1aee45-00ff-fcf5-6177-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1aee46-00ff-f9bc-7d70-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1aee47-00ff-facf-070a-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AbonoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b1b41-00ff-f79c-7f0d-c0a80155aa77" sourceConnectors="7a1b1b46-00ff-f8af-53b8-c0a80155aa77" PositionX="5900" PositionY="1150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})" Name="AfiliadoUsrExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b1b42-00ff-f463-0bb7-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})" Name="AfiliadoUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b1b43-00ff-f576-14cf-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})" Name="AfiliadoUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1b1b44-00ff-fad5-1cc2-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})" Name="AfiliadoUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1b1b45-00ff-fbe8-2657-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})" Name="AfiliadoUsrExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b1b46-00ff-f8af-53b8-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1b1b41-00ff-f79c-7f0d-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b1b47-00ff-f9c2-5ed0-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b1b48-00ff-ff22-692c-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b1b49-00ff-e035-730b-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AfiliadoUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b3d21-00ff-fe9e-0486-c0a80155aa77" sourceConnectors="7a1b3d26-00ff-ffb1-54bf-c0a80155aa77" PositionX="8600" PositionY="-650" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})" Name="AnulacionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b3d22-00ff-fb65-1137-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})" Name="AnulacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b3d23-00ff-fc78-1a3a-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})" Name="AnulacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1b3d24-00ff-e1d7-21f1-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})" Name="AnulacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1b3d25-00ff-e2eb-2b95-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})" Name="AnulacionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b3d26-00ff-ffb1-54bf-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1b3d21-00ff-fe9e-0486-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b3d27-00ff-e0c4-5fd0-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b3d28-00ff-e624-6a18-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b3d29-00ff-e737-744c-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AnulacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b7066-00ff-ea5c-2aac-c0a80155aa77" sourceConnectors="7a1b706b-00ff-efbc-04a1-c0a80155aa77" PositionX="13650" PositionY="-1200" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})" Name="AutorizacionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b7067-00ff-eb6f-3894-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})" Name="AutorizacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b7068-00ff-f0cf-41d0-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})" Name="AutorizacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1b7069-00ff-f1e2-49f0-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})" Name="AutorizacionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1b706a-00ff-eea9-539b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})" Name="AutorizacionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b706b-00ff-efbc-04a1-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1b7066-00ff-ea5c-2aac-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b706c-00ff-f51b-0fa5-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b706d-00ff-f62e-1a71-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b706e-00ff-f2f5-2417-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.AutorizacionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b9aa2-00ff-e856-7f0b-c0a80155aa77" sourceConnectors="7a1b9aa7-00ff-edb5-6075-c0a80155aa77" PositionX="19400" PositionY="-1150" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})" Name="BaseDeDatosExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b9aa3-00ff-e969-0cec-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})" Name="BaseDeDatosExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b9aa4-00ff-eec8-15fe-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})" Name="BaseDeDatosExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1b9aa5-00ff-efdb-1db0-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})" Name="BaseDeDatosExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1b9aa6-00ff-eca2-2742-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})" Name="BaseDeDatosExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1b9aa7-00ff-edb5-6075-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1b9aa2-00ff-e856-7f0b-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b9aa8-00ff-f315-6bbd-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1b9aa9-00ff-f428-7645-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1b9aaa-00ff-f0ee-7feb-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.BaseDeDatosExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1bc924-00ff-f706-6f46-c0a80155aa77" sourceConnectors="7a1bc938-00ff-ea21-5834-c0a80155aa77" PositionX="6000" PositionY="5600" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})" Name="ClienteExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1bc934-00ff-e5d5-7d5f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})" Name="ClienteExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1bc935-00ff-e6e8-066e-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})" Name="ClienteExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1bc936-00ff-e3ae-0e1b-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})" Name="ClienteExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1bc937-00ff-e4c2-17b2-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})" Name="ClienteExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1bc938-00ff-ea21-5834-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1bc924-00ff-f706-6f46-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1bc939-00ff-eb34-6352-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1bc93a-00ff-e7fb-6d96-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1bc93b-00ff-e90e-7740-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ClienteExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1be7a9-00ff-e171-6b46-c0a80155aa77" PositionX="1700" PositionY="7550" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ConexionExcepcion})" Name="ConexionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1be7aa-00ff-fe38-795f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ConexionExcepcion})" Name="ConexionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1be7ab-00ff-ff4b-026a-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ConexionExcepcion})" Name="ConexionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1be7ac-00ff-e4ab-0a28-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ConexionExcepcion})" Name="ConexionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1be7ad-00ff-e5be-13d5-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ConexionExcepcion})" Name="ConexionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c0c38-00ff-e978-4b03-c0a80155aa77" sourceConnectors="7a1c0c3d-00ff-eed7-3ed4-c0a80155aa77" PositionX="7400" PositionY="9200" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})" Name="DespachoExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c0c39-00ff-ea8b-57bc-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})" Name="DespachoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c0c3a-00ff-e751-60c5-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})" Name="DespachoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1c0c3b-00ff-e865-686e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})" Name="DespachoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1c0c3c-00ff-edc4-7212-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})" Name="DespachoExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c0c3d-00ff-eed7-3ed4-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1c0c38-00ff-e978-4b03-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c0c3e-00ff-eb9e-49de-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c0c3f-00ff-ecb1-5427-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c0c40-00ff-f474-5e92-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DespachoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c2f70-00ff-fbf1-3f90-c0a80155aa77" sourceConnectors="7a1c2f75-00ff-e151-3d1a-c0a80155aa77" PositionX="9600" PositionY="10900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})" Name="DevolucionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c2f71-00ff-fd04-4d7f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})" Name="DevolucionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c2f72-00ff-f9cb-5695-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})" Name="DevolucionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1c2f73-00ff-fade-5e6e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})" Name="DevolucionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1c2f74-00ff-e03e-6801-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})" Name="DevolucionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c2f75-00ff-e151-3d1a-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1c2f70-00ff-fbf1-3f90-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c2f80-00ff-fc6c-6e17-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c2f81-00ff-fd80-7871-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c2f82-00ff-fa46-021b-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.DevolucionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c4ff8-00ff-fe30-6b14-c0a80155aa77" sourceConnectors="7a1c5009-00ff-fa8b-7024-c0a80155aa77" PositionX="30400" PositionY="6400" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})" Name="FuncionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c4ff9-00ff-ff43-791b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})" Name="FuncionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c4ffa-00ff-fc09-022c-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})" Name="FuncionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1c4ffb-00ff-fd1c-09d7-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})" Name="FuncionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1c5008-00ff-f978-136e-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})" Name="FuncionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c5009-00ff-fa8b-7024-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1c4ff8-00ff-fe30-6b14-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c500a-00ff-f752-7b62-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c500b-00ff-f865-05d0-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c500c-00ff-fdc4-0f6f-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.FuncionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1c9dba-00ff-e5db-796a-c0a80155aa77" sourceConnectors="7a1e6cc3-00ff-e045-6bf7-c0a80155aa77" PositionX="15100" PositionY="13850" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})" Name="IdentificarExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1c9dbb-00ff-e6ee-063e-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})" Name="IdentificarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1c9dbc-00ff-ec4e-0f48-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})" Name="IdentificarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1c9dbd-00ff-ed61-16f3-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})" Name="IdentificarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1c9dca-00ff-f970-2089-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})" Name="IdentificarExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1cc9ac-00ff-e917-2e21-c0a80155aa77" sourceConnectors="7a1cc9b1-00ff-ec14-4016-c0a80155aa77" PositionX="29600" PositionY="9350" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})" Name="LineaExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1cc9ad-00ff-ea2a-3c16-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})" Name="LineaExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1cc9ae-00ff-e6f1-4545-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})" Name="LineaExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1cc9af-00ff-e804-4cf7-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})" Name="LineaExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1cc9b0-00ff-eb00-568d-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})" Name="LineaExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1cc9b1-00ff-ec14-4016-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1cc9ac-00ff-e917-2e21-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1cc9b2-00ff-e8da-4b5e-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1cc9b3-00ff-e9ed-55d0-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1cc9b4-00ff-ef4d-5f84-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.LineaExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1ce8dd-00ff-f1a8-25fd-c0a80155aa77" sourceConnectors="7a1ce8e2-00ff-f51e-6a68-c0a80155aa77" PositionX="29400" PositionY="900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})" Name="MaquinaDeEstadoExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1ce8de-00ff-ee6f-332c-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})" Name="MaquinaDeEstadoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1ce8df-00ff-ef82-3c3b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})" Name="MaquinaDeEstadoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1ce8e0-00ff-f744-6ef6-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})" Name="MaquinaDeEstadoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1ce8e1-00ff-f857-7888-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})" Name="MaquinaDeEstadoExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1ce8e2-00ff-f51e-6a68-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1ce8dd-00ff-f1a8-25fd-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1ce8e3-00ff-f631-75aa-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1ce8e4-00ff-fb91-7ffb-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1ce8e5-00ff-fca4-09b5-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.MaquinaDeEstadoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d0926-00ff-fb24-212a-c0a80155aa77" sourceConnectors="7a1d092b-00ff-e083-41cf-c0a80155aa77" PositionX="6250" PositionY="7450" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})" Name="PagoExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d0927-00ff-fc37-2e13-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})" Name="PagoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d0928-00ff-e196-3714-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})" Name="PagoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1d0929-00ff-e2a9-3ece-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})" Name="PagoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1d092a-00ff-ff70-485c-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})" Name="PagoExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d092b-00ff-e083-41cf-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1d0926-00ff-fb24-212a-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d092c-00ff-e5e3-4cf9-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d092d-00ff-e6f6-573d-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d092e-00ff-e3bd-60eb-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PagoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d23f2-00ff-e311-400f-c0a80155aa77" sourceConnectors="7a1d2401-00ff-f32c-68b9-c0a80155aa77" PositionX="26450" PositionY="10900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})" Name="PerfilExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d23f3-00ff-e425-4d00-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})" Name="PerfilExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d23f4-00ff-e984-560f-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})" Name="PerfilExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1d23f5-00ff-ea97-5dc3-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})" Name="PerfilExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1d23f6-00ff-e75e-6759-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})" Name="PerfilExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d2401-00ff-f32c-68b9-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1d23f2-00ff-e311-400f-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d2402-00ff-eff3-744f-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d2403-00ff-f106-7e8e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d2404-00ff-f666-0838-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d4852-00ff-e187-6b72-c0a80155aa77" sourceConnectors="7a1d4857-00ff-e6e7-1c09-c0a80155aa77" PositionX="30100" PositionY="3450" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})" Name="PerfilUsrExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d4853-00ff-e29a-787a-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})" Name="PerfilUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d4854-00ff-e7fa-017d-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})" Name="PerfilUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1d4855-00ff-e90d-0945-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})" Name="PerfilUsrExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1d4856-00ff-e5d4-12e1-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})" Name="PerfilUsrExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d4857-00ff-e6e7-1c09-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1d4852-00ff-e187-6b72-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d4858-00ff-ec46-2751-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d4859-00ff-ed59-3199-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d485a-00ff-ea20-3bcd-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.PerfilUsrExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d728f-00ff-e2f7-605b-c0a80155aa77" sourceConnectors="7a1d7294-00ff-ea40-1bff-c0a80155aa77" PositionX="25700" PositionY="-950" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})" Name="ProductoExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d7290-00ff-e5f3-6e8d-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})" Name="ProductoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d7291-00ff-e706-7933-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})" Name="ProductoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1d7292-00ff-e3cd-00de-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})" Name="ProductoExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1d7293-00ff-e4e0-0a9a-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})" Name="ProductoExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1d7294-00ff-ea40-1bff-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1d728f-00ff-e2f7-605b-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d7295-00ff-eb53-277a-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1d7296-00ff-e819-31e0-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1d7297-00ff-e92d-3b7e-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ProductoExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e4f14-00ff-e920-3942-c0a80155aa77" sourceConnectors="7a1e4f19-00ff-ee80-7944-c0a80155aa77" PositionX="13800" PositionY="10950" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})" Name="SesionExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e4f15-00ff-ea33-4629-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})" Name="SesionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e4f16-00ff-e6fa-4f31-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})" Name="SesionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1e4f17-00ff-e80d-56f8-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})" Name="SesionExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1e4f18-00ff-ed6d-609f-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})" Name="SesionExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e4f19-00ff-ee80-7944-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1e4f14-00ff-e920-3942-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e4f1a-00ff-eb47-048c-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e4f1b-00ff-ec5a-0ecc-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e4f1c-00ff-f1b9-18d1-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.SesionExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e6cbe-00ff-f882-7f60-c0a80155aa77" sourceConnectors="7a1e6cd0-00ff-f026-453a-c0a80155aa77" targetConnectors="7a1e6cc3-00ff-e045-6bf7-c0a80155aa77 7a1e88a2-00ff-f39b-0d76-c0a80155aa77" PositionX="17850" PositionY="10800" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})" Name="UsuarioExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e6cbf-00ff-f995-0c66-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})" Name="UsuarioExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e6cc0-00ff-e158-156b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})" Name="UsuarioExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1e6cc1-00ff-e26b-1d1f-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})" Name="UsuarioExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1e6cc2-00ff-ff32-26b1-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})" Name="UsuarioExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e6cc3-00ff-e045-6bf7-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1c9dba-00ff-e5db-796a-c0a80155aa77" target="7a1e6cbe-00ff-f882-7f60-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e6ccd-00ff-ef50-7749-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e6cce-00ff-ec17-019c-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e6ccf-00ff-ed2a-0bb9-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.IdentificarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e6cd0-00ff-f026-453a-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1e6cbe-00ff-f882-7f60-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e6cd1-00ff-f139-5091-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e6cd2-00ff-ee00-5ad6-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e6cd3-00ff-ef13-6495-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e8893-00ff-e119-001a-c0a80155aa77" sourceConnectors="7a1e88a2-00ff-f39b-0d76-c0a80155aa77" PositionX="20300" PositionY="13850" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})" Name="ValidarExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e8894-00ff-e678-0e3b-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})" Name="ValidarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e8895-00ff-e78c-17aa-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})" Name="ValidarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1e8896-00ff-e452-1f52-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})" Name="ValidarExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1e8897-00ff-e565-2948-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})" Name="ValidarExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1e88a2-00ff-f39b-0d76-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1e8893-00ff-e119-001a-c0a80155aa77" target="7a1e6cbe-00ff-f882-7f60-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e88a3-00ff-f4ae-18bd-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1e88a4-00ff-fa0d-2323-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1e88a5-00ff-fb20-2ccd-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ValidarExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.UsuarioExcepcion}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1eb31d-00ff-f731-2fa9-c0a80155aa77" sourceConnectors="7a1eb322-00ff-faa7-09f6-c0a80155aa77" PositionX="22550" PositionY="10800" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})" Name="XmlExcepcion" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1eb31e-00ff-f3f7-3cbf-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})" Name="XmlExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1eb31f-00ff-f50a-45bc-c0a80155aa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})" Name="XmlExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="7a1eb320-00ff-fccd-4d76-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})" Name="XmlExcepcion" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="false" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="7a1eb321-00ff-fde0-5708-c0a80155aa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})" Name="XmlExcepcion" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="7a1eb322-00ff-faa7-09f6-c0a80155aa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="7a1eb31d-00ff-f731-2fa9-c0a80155aa77" target="7a19ea33-00ff-f01a-7cfe-c0a80155aa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1eb323-00ff-fbba-1564-c0a80155aa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="7a1eb324-00ff-e119-1fdb-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="7a1eb325-00ff-e22c-2970-c0a80155aa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLGeneralization}(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.XmlExcepcion})(~jclass{!pid%CR}{%com.becoblohm.cr.excepciones.ExcepcionCr}))" Name="" Kind="76"/>
+        </children>
+      </Labels>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+      <BendPoints x="0" y="0"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" Font="Tahoma|20|1|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="ac81931e-00ff-f024-3b81-c0a80155aa77" PositionX="13700" PositionY="-3400" ExtentX="11275" ExtentY="1475" Autosize="false" VisibilityStyle="2" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfnotation:ac81931d-00ff-f35d-22b7-c0a80155aa77" Kind="167"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Description" ShapeStereotypeStyle="2" Id="ac81931f-00ff-f137-469a-c0a80155aa77">
+        <SemanticReference Id="emfnotation:ac81931d-00ff-f35d-22b7-c0a80155aa77" Kind="167"/>
+      </children>
+    </children>
+  </Diagram>
+  <TextElements Id="ac81931d-00ff-f35d-22b7-c0a80155aa77" Label="Diagrama Paquete Excepciones"/>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>

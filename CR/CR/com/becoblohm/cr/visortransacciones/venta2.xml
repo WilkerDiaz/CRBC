@@ -1,0 +1,793 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="./xsltVenta.xsl"?>
+<venta>
+  <pagos>
+    <pago>
+      <formaPago>
+        <codigo>1</codigo>
+
+        <tipo>1</tipo>
+
+        <nombre>Efectivo</nombre>
+
+        <indicarBanco>false</indicarBanco>
+
+        <indicarNumDocumento>false</indicarNumDocumento>
+
+        <indicarNumCuenta>false</indicarNumCuenta>
+
+        <indicarNumConformacion>false</indicarNumConformacion>
+
+        <indicarNumReferencia>false</indicarNumReferencia>
+
+        <indicarCedulaTitular>false</indicarCedulaTitular>
+
+        <validarSaldoCliente>false</validarSaldoCliente>
+
+        <permiteVuelto>true</permiteVuelto>
+
+        <montoMinimo>1.0</montoMinimo>
+
+        <montoMaximo>5000000.0</montoMaximo>
+
+        <montoComision>0.0</montoComision>
+
+        <incrementaEntregaParcial>true</incrementaEntregaParcial>
+
+        <requiereAutorizacion>false</requiereAutorizacion>
+
+      </formaPago>
+
+      <monto>406256.16</monto>
+
+      <numConformacion>0</numConformacion>
+
+      <numReferencia>0</numReferencia>
+
+    </pago>
+
+  </pagos>
+
+  <aplicaDesctoEmpleado>false</aplicaDesctoEmpleado>
+
+  <ventaExenta>false</ventaExenta>
+
+  <codTienda>1</codTienda>
+
+  <fechaTrans class="sql-date">2004-10-15</fechaTrans>
+
+  <numCajaInicia>1</numCajaInicia>
+
+  <numRegCajaInicia>39</numRegCajaInicia>
+
+  <numCajaFinaliza>1</numCajaFinaliza>
+
+  <numTransaccion>17</numTransaccion>
+
+  <horaInicia>10:51:01</horaInicia>
+
+  <horaFin>10:54:37</horaFin>
+
+  <codCajero>00006424</codCajero>
+
+  <cliente>
+    <codCliente>V-0014999549</codCliente>
+
+    <tipoCliente>E</tipoCliente>
+
+    <numFicha>00005406</numFicha>
+
+    <numTienda>1</numTienda>
+
+    <nombre>NEHIYIBEL RINCON COLMENARES</nombre>
+
+    <direccion>CALLE EUCALIPTUS, CASA # 9232-A URB CARIALINDA NAGUANAGUA</direccion>
+
+    <dirFiscal>CALLE EUCALIPTUS, CASA # 9232-A URB CARIALINDA NAGUANAGUA</dirFiscal>
+
+    <codArea>0414</codArea>
+
+    <numTelefono>4307050</numTelefono>
+
+    <fechaAfiliacion class="sql-date">2004-10-14</fechaAfiliacion>
+
+    <exento>false</exento>
+
+    <estadoCliente>A</estadoCliente>
+
+    <estadoColaborador>A</estadoColaborador>
+
+    <contactar>false</contactar>
+
+    <mensajes></mensajes>
+
+  </cliente>
+
+  <montoBase>353266.2</montoBase>
+
+  <montoImpuesto>52989.96</montoImpuesto>
+
+  <montoRemanente>0.0</montoRemanente>
+
+  <montoVuelto>0.0</montoVuelto>
+
+  <lineasFacturacion>8</lineasFacturacion>
+
+  <checksum>0</checksum>
+
+  <tipoTransaccion>V</tipoTransaccion>
+
+  <estadoTransaccion>F</estadoTransaccion>
+
+  <detallesTransaccion>
+    <detalletransaccion>
+      <montoDctoEmpleado>139.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000001443070</codProducto>
+
+        <descripcionCorta>ESPATULA DE   2 1/2"</descripcionCorta>
+
+        <descripcionLarga>ESPATULA DE 2 1/2"</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>14</codDepartamento>
+
+        <lineaSeccion>43</lineaSeccion>
+
+        <costoLista>1.0</costoLista>
+
+        <precioRegular>1390.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>2.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>1251.0</precioFinal>
+
+      <montoImpuesto>187.65</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>1099.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000000220149</codProducto>
+
+        <descripcionCorta>REMOV PINTURA 1/4 GL</descripcionCorta>
+
+        <descripcionLarga>REMOVEDOR DE PINTURA 1/4 GL</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>02</codDepartamento>
+
+        <lineaSeccion>20</lineaSeccion>
+
+        <costoLista>7386.0</costoLista>
+
+        <precioRegular>10990.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>3.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>9891.0</precioFinal>
+
+      <montoImpuesto>1483.65</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>168.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000000247170</codProducto>
+
+        <descripcionCorta>TIRRO 1"X50MTS  1150</descripcionCorta>
+
+        <descripcionLarga>TIRRO 1"X50 METROS REF:1150</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>02</codDepartamento>
+
+        <lineaSeccion>47</lineaSeccion>
+
+        <costoLista>1634.0</costoLista>
+
+        <precioRegular>1680.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>3.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>1512.0</precioFinal>
+
+      <montoImpuesto>226.8</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>142.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000001428105</codProducto>
+
+        <descripcionCorta>LIJA D/AGUA 3M 220</descripcionCorta>
+
+        <descripcionLarga>PAPEL LIJA D/AGUA 3M GRANO</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>14</codDepartamento>
+
+        <lineaSeccion>28</lineaSeccion>
+
+        <costoLista>822.0</costoLista>
+
+        <precioRegular>1420.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>2.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>1278.0</precioFinal>
+
+      <montoImpuesto>191.7</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>99.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000001428082</codProducto>
+
+        <descripcionCorta>LIJA D/AGUA GR 80</descripcionCorta>
+
+        <descripcionLarga>LIJA DE AGUA GR 80</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>14</codDepartamento>
+
+        <lineaSeccion>28</lineaSeccion>
+
+        <costoLista>2310.0</costoLista>
+
+        <precioRegular>990.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>2.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>891.0</precioFinal>
+
+      <montoImpuesto>133.65</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>289.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000001630082</codProducto>
+
+        <descripcionCorta>INTER EMP 1WAY BL</descripcionCorta>
+
+        <descripcionLarga>INTERRUPTOR EMPOTRAR BLANCO</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>16</codDepartamento>
+
+        <lineaSeccion>30</lineaSeccion>
+
+        <costoLista>0.44</costoLista>
+
+        <precioRegular>2890.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>2.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>2601.0</precioFinal>
+
+      <montoImpuesto>390.15</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>629.0</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000000220354</codProducto>
+
+        <descripcionCorta>THINNER LACA  QV 1/4</descripcionCorta>
+
+        <descripcionLarga>THINNER LACA T-B 1/4GL</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>02</codDepartamento>
+
+        <lineaSeccion>20</lineaSeccion>
+
+        <costoLista>5292.0</costoLista>
+
+        <precioRegular>6290.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>53.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>5661.0</precioFinal>
+
+      <montoImpuesto>849.15</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+    <detalletransaccion>
+      <montoDctoEmpleado>129.3</montoDctoEmpleado>
+
+      <producto>
+        <codProducto>000003305090</codProducto>
+
+        <descripcionCorta>PLATANITOS 123</descripcionCorta>
+
+        <descripcionLarga>PLATANITOS 123GR</descripcionLarga>
+
+        <codUnidadVenta>1</codUnidadVenta>
+
+        <descUnidadVenta>PIEZA</descUnidadVenta>
+
+        <abreviadoUnidadVenta>PZA</abreviadoUnidadVenta>
+
+        <indicaFraccion>false</indicaFraccion>
+
+        <referenciaProveedor>S/REF</referenciaProveedor>
+
+        <marca>N/A</marca>
+
+        <modelo>N/A</modelo>
+
+        <codDepartamento>33</codDepartamento>
+
+        <lineaSeccion>05</lineaSeccion>
+
+        <costoLista>487.01</costoLista>
+
+        <precioRegular>1293.0</precioRegular>
+
+        <cantidadVentaEmpaque>3.4028235E38</cantidadVentaEmpaque>
+
+        <desctoVentaEmpaque>0.0</desctoVentaEmpaque>
+
+        <indicaDesctoEmpleado>true</indicaDesctoEmpleado>
+
+        <desctoVentaEmpleado>0.0</desctoVentaEmpleado>
+
+        <estado>A</estado>
+
+        <fechaActualizacion class="sql-date">2004-08-30</fechaActualizacion>
+
+        <horaActualizacion>16:11:31</horaActualizacion>
+
+        <impuesto>
+          <codImpuesto>001</codImpuesto>
+
+          <codRegion>VAL</codRegion>
+
+          <nombreImpuesto>IVA</nombreImpuesto>
+
+          <fechaVigencia class="sql-date">2004-09-01</fechaVigencia>
+
+          <porcentaje>15.0</porcentaje>
+
+        </impuesto>
+
+        <promociones></promociones>
+
+        <tipoEntrega>Caja</tipoEntrega>
+
+      </producto>
+
+      <cantidad>6.0</cantidad>
+
+      <condicionVenta>DE</condicionVenta>
+
+      <precioFinal>1163.7</precioFinal>
+
+      <montoImpuesto>174.56</montoImpuesto>
+
+      <tipoCaptura>T</tipoCaptura>
+
+      <codPromocion>0</codPromocion>
+
+      <tipoEntrega>Caja</tipoEntrega>
+
+      <condicionEspecial>false</condicionEspecial>
+
+    </detalletransaccion>
+
+  </detallesTransaccion>
+
+  <inicio>1098461299687</inicio>
+
+  <duracion>0</duracion>
+
+</venta>

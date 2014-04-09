@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd" >
+    
+<hibernate-mapping>
+
+<class 
+    name="com.beco.colascr.transferencias.sincronizador.hibernate.Listaregalos"
+    table="listaregalos"
+>
+
+    <id 
+        name="codlista" 
+        column="codlista" 
+        type="int"
+    >
+        <generator class="assigned" />
+    </id>
+
+    <timestamp
+        name="actualizacion"
+        column="actualizacion"
+    />
+
+    <property
+        name="tipolista"
+        type="java.lang.String"
+        column="tipolista"
+        not-null="true"
+        length="1"
+    />
+    <property
+        name="codtitular"
+        type="java.lang.String"
+        column="codtitular"
+        length="12"
+    />
+    <property
+        name="fechaevento"
+        type="java.util.Date"
+        column="fechaevento"
+    />
+    <property
+        name="tipoevento"
+        type="java.lang.String"
+        column="tipoevento"
+        length="50"
+    />
+    <property
+        name="titularsec"
+        type="java.lang.String"
+        column="titularsec"
+        length="50"
+    />
+    <property
+        name="fechaapertura"
+        type="java.util.Date"
+        column="fechaapertura"
+    />
+    <property
+        name="numtiendaapertura"
+        type="int"
+        column="numtiendaapertura"
+    />
+    <property
+        name="numcajaapertura"
+        type="int"
+        column="numcajaapertura"
+    />
+    <property
+        name="codcajeroapertura"
+        type="java.lang.String"
+        column="codcajeroapertura"
+        length="12"
+    />
+    <property
+        name="fechacierre"
+        type="java.util.Date"
+        column="fechacierre"
+    />
+       <property
+        name="numtiendacierre"
+        type="java.lang.Integer"
+        column="numtiendacierre"
+    />
+    <property
+        name="numcajacierre"
+        type="java.lang.Integer"
+        column="numcajacierre"
+    />
+    <property
+        name="codcajerocierre"
+        type="java.lang.String"
+        column="codcajerocierre"
+        length="12"
+    />
+    <property
+        name="montobase"
+        type="java.math.BigDecimal"
+        column="montobase"
+    />
+    <property
+        name="montoimpuesto"
+        type="java.math.BigDecimal"
+        column="montoimpuesto"
+    />
+    <property
+        name="cantproductos"
+        type="java.math.BigDecimal"
+        column="cantproductos"
+    />
+    <property
+        name="montoabonos"
+        type="java.math.BigDecimal"
+        column="montoabonos"
+    />
+    <property
+        name="notificaciones"
+        type="java.lang.String"
+        column="notificaciones"
+        length="1"
+    />
+    <property
+        name="permitirventa"
+        type="java.lang.String"
+        column="permitirventa"
+        length="1"
+    />
+    <property
+        name="estado"
+        type="java.lang.String"
+        column="estado"
+        length="1"
+    />
+                
+    <!-- associations -->
+
+</class>
+</hibernate-mapping>

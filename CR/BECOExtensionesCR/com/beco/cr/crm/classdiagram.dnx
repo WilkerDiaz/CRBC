@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_GsnicO7mEd24l88InAhi6Q" type="Class" name="classdiagram.dnx">
+  <children xmi:id="_N_UUAO7mEd24l88InAhi6Q">
+    <children xmi:id="_N_w_8O7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_N_w_8e7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_N_w_8u7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_N_w_8-7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_N_w_9O7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_N_w_9e7mEd24l88InAhi6Q" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_N_w_9u7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_N_w_9-7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_N_w_-O7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_N_UUAe7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ManejadorClienteCRM%5Bjcu%5Ename=ManejadorClienteCRM.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N_UUAu7mEd24l88InAhi6Q" x="15877" y="1320"/>
+  </children>
+  <children xmi:id="_QSsE0O7mEd24l88InAhi6Q">
+    <children xmi:id="_QSsE0-7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_QSsE1O7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_QSsE1e7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_QSsE1u7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_QSsE1-7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_QSsE2O7mEd24l88InAhi6Q" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_QSsE2e7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_QSsE2u7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_QSsE2-7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_QSsE0e7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MaquinaDeEstadoCRM%5Bjcu%5Ename=MaquinaDeEstadoCRM.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QSsE0u7mEd24l88InAhi6Q" x="15956" y="4807"/>
+  </children>
+  <children xmi:id="_RS6ywe7mEd24l88InAhi6Q">
+    <children xmi:id="_RS6yxO7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_RS6yxe7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_RS6yxu7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_RS6yx-7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_RS6yyO7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_RS6yye7mEd24l88InAhi6Q" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_RS6yyu7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_RS6yy-7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_RS6yzO7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_RS6ywu7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=TipoClienteChange%5Bjsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RS6yw-7mEd24l88InAhi6Q" x="8691" y="10778"/>
+  </children>
+  <children xmi:id="_RS6yze7mEd24l88InAhi6Q">
+    <children xmi:id="_RS6y0O7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_RS6y0e7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_RS6y0u7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_RS6y0-7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_RS6y1O7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_RS6y1e7mEd24l88InAhi6Q" visible="false" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_RS6y1u7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_RS6y1-7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_RS6y2O7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_RS6yzu7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RS6yz-7mEd24l88InAhi6Q" x="8319" y="3301" height="4907"/>
+  </children>
+  <children xmi:id="_2-Ohge7mEd24l88InAhi6Q">
+    <children xmi:id="_2-OhhO7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_2-Ohhe7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_2-Ohhu7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_2-Ohh-7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_2-OhiO7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_2-Ohie7mEd24l88InAhi6Q" visible="false" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_2-Ohiu7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_2-Ohi-7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_2-OhjO7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_2-Ohgu7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2-Ohg-7mEd24l88InAhi6Q" x="634" y="3487" width="5155" height="4799"/>
+  </children>
+  <children xmi:id="_2-Ohje7mEd24l88InAhi6Q">
+    <children xmi:id="_2-OhkO7mEd24l88InAhi6Q" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_2-Ohke7mEd24l88InAhi6Q" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_2-Ohku7mEd24l88InAhi6Q" type="Stereotype"/>
+    <children xmi:id="_2-Ohk-7mEd24l88InAhi6Q" type="Name"/>
+    <children xmi:id="_2-OhlO7mEd24l88InAhi6Q" type="Parent"/>
+    <children xmi:id="_2-Ohle7mEd24l88InAhi6Q" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_2-Ohlu7mEd24l88InAhi6Q"/>
+    </children>
+    <children xmi:id="_2-Ohl-7mEd24l88InAhi6Q" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_2-OhmO7mEd24l88InAhi6Q"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_2-Ohju7mEd24l88InAhi6Q" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=TablaFact%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2-Ohj-7mEd24l88InAhi6Q" x="1479" y="10698"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_Gsnice7mEd24l88InAhi6Q"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_QVhWYO7mEd24l88InAhi6Q" source="_QSsE0O7mEd24l88InAhi6Q" target="_N_UUAO7mEd24l88InAhi6Q">
+    <children xmi:id="_QVhWY-7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_QVhWZe7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_QVhWZ-7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_QVhWZu7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QVhWZO7mEd24l88InAhi6Q" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_QVhWYe7mEd24l88InAhi6Q" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=MaquinaDeEstadoCRM%5Bjcu%5Ename=MaquinaDeEstadoCRM.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ManejadorClienteCRM%5Bjcu%5Ename=ManejadorClienteCRM.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QVhWYu7mEd24l88InAhi6Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Rer94e7mEd24l88InAhi6Q" type="OwnedElement" source="_RS6yze7mEd24l88InAhi6Q" target="_RS6ywe7mEd24l88InAhi6Q">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Rer94u7mEd24l88InAhi6Q" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Rer94-7mEd24l88InAhi6Q" points="[0, 18111, -14, -2513]$[0, 19698, -14, -926]"/>
+  </edges>
+  <edges xmi:id="_Rer95O7mEd24l88InAhi6Q" source="_RS6ywe7mEd24l88InAhi6Q" target="_RS6yze7mEd24l88InAhi6Q">
+    <children xmi:id="_Rer95-7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_Rer96e7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_Rer96-7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_Rer96u7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rer96O7mEd24l88InAhi6Q" y="-530"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Rer95e7mEd24l88InAhi6Q" routing="Rectilinear" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=TipoClienteChange%5Bjsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Rer95u7mEd24l88InAhi6Q" points="[635, -873, 529, 5027]$[635, -3413, 529, 2487]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xcLOMO7mEd24l88InAhi6Q" id="(0.9725086,0.37415937)"/>
+  </edges>
+  <edges xmi:id="_Rer97O7mEd24l88InAhi6Q" source="_RS6yze7mEd24l88InAhi6Q" target="_QSsE0O7mEd24l88InAhi6Q">
+    <children xmi:id="_Rer97-7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_Rer98e7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_Rer98-7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_Rer98u7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rer98O7mEd24l88InAhi6Q" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Rer97e7mEd24l88InAhi6Q" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=MaquinaDeEstadoCRM%5Bjcu%5Ename=MaquinaDeEstadoCRM.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Rer97u7mEd24l88InAhi6Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_3E7mce7mEd24l88InAhi6Q" type="OwnedElement" source="_2-Ohge7mEd24l88InAhi6Q" target="_2-Ohje7mEd24l88InAhi6Q">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_3E7mcu7mEd24l88InAhi6Q" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3E7mc-7mEd24l88InAhi6Q" points="[-13, 24672, -14, -2712]$[-13, 26260, -14, -1124]"/>
+  </edges>
+  <edges xmi:id="_3E7mdO7mEd24l88InAhi6Q" source="_2-Ohge7mEd24l88InAhi6Q" target="_2-Ohje7mEd24l88InAhi6Q">
+    <children xmi:id="_3E7md-7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_3E7mee7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_3E7me-7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_3E7meu7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3E7meO7mEd24l88InAhi6Q" y="-530"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_3E7mde7mEd24l88InAhi6Q" routing="Rectilinear" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TablaFact%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3E7mdu7mEd24l88InAhi6Q" points="[503, 2434, 635, -4604]$[503, 5953, 635, -1085]"/>
+  </edges>
+  <edges xmi:id="_3E7mfO7mEd24l88InAhi6Q" source="_2-Ohge7mEd24l88InAhi6Q" target="_RS6yze7mEd24l88InAhi6Q">
+    <children xmi:id="_3FEwYO7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_3FEwYu7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_3FEwZO7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_3FEwY-7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FEwYe7mEd24l88InAhi6Q" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_3E7mfe7mEd24l88InAhi6Q" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=RegistroClientesNuevosN%5Bjcu%5Ename=RegistroClientesNuevosN.java%5Bjpack%5Ename=com.beco.cr.crm%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=ExtencionesBeco-Prueba%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3E7mfu7mEd24l88InAhi6Q" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_3FEwZe7mEd24l88InAhi6Q" source="_2-Ohje7mEd24l88InAhi6Q" target="_2-Ohge7mEd24l88InAhi6Q">
+    <children xmi:id="_3FEwaO7mEd24l88InAhi6Q" type="KindLabel">
+      <children xmi:id="_3FEwau7mEd24l88InAhi6Q" type="Stereotype"/>
+      <children xmi:id="_3FEwbO7mEd24l88InAhi6Q" type="Kind"/>
+      <children xmi:id="_3FEwa-7mEd24l88InAhi6Q" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FEwae7mEd24l88InAhi6Q" y="-530"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_3FEwZu7mEd24l88InAhi6Q" routing="Rectilinear" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=TablaFact%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=FacturacionPrincipal%5Bjcu%5Ename=FacturacionPrincipal.java%5Bjpack%5Ename=com.becoblohm.cr.gui%5Bjsrcroot%5Esrcfolder=%5Bproject%5Eid=CR-GD4-Prueba%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FEwZ-7mEd24l88InAhi6Q" points="[-556, -1085, -688, 5953]$[-556, -4604, -688, 2434]"/>
+  </edges>
+</notation:Diagram>
